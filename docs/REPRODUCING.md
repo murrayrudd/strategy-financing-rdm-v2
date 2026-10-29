@@ -9,7 +9,7 @@ python scripts/get_materials.py
 python scripts/verify_release.py
 ```
 
-The first command downloads only this repository’s complete release archive. It validates the archive checksum, inventory, and every file, and refuses to overwrite local changes. For an archive already downloaded, use `python scripts/get_materials.py --archive /path/to/strategy-rdm-v2.0.0-complete.zip`. No earlier repository, account credential, live market feed, or SEC retrieval is required.
+The first command downloads only this repository’s complete release archive. It validates the archive checksum, inventory, and every archived file, and refuses to overwrite changes to model files or pinned requirements. It preserves existing documentation and packaging scripts, allowing README and citation updates on the current branch without changing the frozen research release. For an archive already downloaded, use `python scripts/get_materials.py --archive /path/to/strategy-rdm-v2.0.0-complete.zip`. No earlier repository, account credential, live market feed, or SEC retrieval is required.
 
 The complete archive includes code, all frozen inputs, 34 archived SEC documents, the cited investor briefing, complete retained experiment records, transaction traces, result summaries, figure data, and all 19 numerical tables. Normal Python dependencies are installed separately.
 
@@ -28,7 +28,7 @@ python -m pip install -r requirements.txt
 python scripts/verify_release.py --model
 ```
 
-This checks release hashes, copies the model into a temporary directory, runs the 94 engineering tests and source/history checks, verifies saved experiment identities and matched paths, and reproduces the technical summaries and BPS/regret calculations. It compares seven regenerated summaries with the released values. The temporary copy is discarded; supplied research files remain unchanged. This is verification and post-processing, not a fresh execution of the full simulation ensemble.
+This checks the frozen files under `model/` and the pinned requirements against the release hashes, copies the model into a temporary directory, runs the 94 engineering tests and source/history checks, verifies saved experiment identities and matched paths, and reproduces the technical summaries and BPS/regret calculations. It compares seven regenerated summaries with the released values. The temporary copy is discarded; supplied research files remain unchanged. Current documentation and packaging scripts are versioned in Git separately from the archived research files. This is verification and post-processing, not a fresh execution of the full simulation ensemble.
 
 ## 3. Rebuild the figures and inspect the tables
 

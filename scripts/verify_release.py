@@ -1,4 +1,4 @@
-"""Verify release integrity; optionally reproduce checks in an isolated copy."""
+"""Verify frozen research files; optionally reproduce checks in an isolated copy."""
 from pathlib import Path
 import argparse
 import hashlib
@@ -22,8 +22,12 @@ def main():
     parser.add_argument('--model', action='store_true', help='Run engineering/source checks and reproduce result summaries in a temporary copy.')
     args = parser.parse_args()
     manifest = json.loads((ROOT / 'MATERIALS_MANIFEST.json').read_text())
+    # The release manifest also records its original documentation. Current
+    # README/citation edits belong to Git history, not the frozen scientific payload.
+    frozen = {name: record for name, record in manifest['files'].items()
+              if name.startswith('model/') or name == 'requirements.txt'}
     failed = []
-    for name, record in manifest['files'].items():
+    for name, record in frozen.items():
         path = ROOT / name
         if not path.is_file():
             failed.append([name, 'missing'])
@@ -32,7 +36,8 @@ def main():
     if failed:
         print(json.dumps({'status': 'FAIL', 'files': failed}, indent=2))
         raise SystemExit('Obtain the complete materials, or use a clean release checkout.')
-    report = {'status': 'PASS', 'files_checked': len(manifest['files']), 'full_study_rerun': False}
+    report = {'status': 'PASS', 'files_checked': len(frozen),
+              'checked_scope': 'model/ and requirements.txt', 'full_study_rerun': False}
     if args.model:
         with tempfile.TemporaryDirectory(prefix='strategy-rdm-verify-') as temporary:
             model = Path(temporary) / 'model'

@@ -2,7 +2,7 @@
 
 Self-contained code, data, and replication materials for Murray A. Rudd’s **Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy**.
 
-**Model release: 2.0.0 · October 29, 2026.** This release supports the updated *Strategy financing under deep uncertainty* working paper. Its [SSRN record](https://doi.org/10.2139/ssrn.7632598) also identifies the earlier paper; manuscript replacement on SSRN is a separate publication step. The replication materials below correspond to the updated model and retained results.
+**Model release: 2.0.0 · October 29, 2026.** This release supports the expanded Strategy RDM paper. The SSRN link and DOI for this paper are pending and will be added when assigned. The replication materials below correspond to the updated model and retained results; links to the preceding papers appear under **Research basis**.
 
 The study examines Strategy’s long-term payment resilience and the consequences of financing decisions for preferred and common investors. Eight financing and liquidity policies face the same 2,000 exploratory futures under two common valuation mechanisms, with 512 challenge futures and a further 253-future structural and matched-funding analysis. The corporate opening is June 30, 2026, with primary evaluation dates in June 2031 and June 2033.
 
@@ -50,7 +50,7 @@ python scripts/rebuild_figures.py
 | --- | --- |
 | Simulation engine, policies, funding and distribution mechanics | [`model/`](model/) |
 | Opening state, contracts, calendars, uncertainty design, source registry | [`model/data/`](model/data/) |
-| Original and structural results, transaction traces, identities | `model/results/` after obtaining the complete archive |
+| Original and structural results, transaction traces, identities | [Browse summaries and identities](model/results/) · [Download complete results and traces (ZIP)](https://github.com/murrayrudd/strategy-financing-rdm-v2/releases/download/v2.0.0/strategy-rdm-v2.0.0-complete.zip) |
 | BPS calculations, numerical supplement, headline claim ledger | [`model/analysis/`](model/analysis/) |
 | Figure scripts, exact plotting data, all 19 table exports | [`model/publication/`](model/publication/) |
 | Manuscript-to-output map | [`docs/MANUSCRIPT_MAP.md`](docs/MANUSCRIPT_MAP.md) |
@@ -59,8 +59,37 @@ python scripts/rebuild_figures.py
 
 The figure set includes the corrected grayscale policy comparison and payment charts with legends below the axes, plus the landscape attainment heatmap. Descriptive filenames identify plots independently of numbering in the manually edited manuscript. The repository does not distribute an outdated manuscript draft as the final paper.
 
-## Citation and rights
+## Research basis
 
-Please cite the accompanying working paper and identify release **2.0.0** or the repository commit used. [`CITATION.cff`](CITATION.cff) provides software citation metadata and the related SSRN record. The author’s source code and software documentation use the [MIT License](LICENSE.md). Coin Metrics data retain CC BY-NC 4.0 terms, and third-party source documents retain their own rights; see [license scope](LICENSE_SCOPE.md) and [source notices](THIRD_PARTY_NOTICES.md).
+**Rudd, M. A. (2026).** *Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy*. Working paper.
 
-**Murray A. Rudd, Ph.D.** · [ORCID 0000-0001-9533-5070](https://orcid.org/0000-0001-9533-5070)
+**SSRN link and DOI: pending.** These will be added when assigned.
+
+This paper updates the earlier [Strategy financing under deep uncertainty](https://doi.org/10.2139/ssrn.7632598) analysis and builds on [Financing feasibility and shareholder outcomes in a Bitcoin treasury company: Historical validation and conditional stress testing of Strategy](https://doi.org/10.2139/ssrn.7593458). The [earlier RDM replication repository](https://github.com/murrayrudd/strategy-financing-rdm) preserves that version’s model and results. The present repository includes all materials required to reproduce the expanded analysis and has no dependency on either earlier repository.
+
+## Citation
+
+If you use this code or its results in research, please cite the accompanying paper and identify model version **2.0.0** and the repository commit used:
+
+```bibtex
+@unpublished{Rudd2026StrategyResilience,
+  author = {Rudd, Murray A.},
+  title = {Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy},
+  year = {2026},
+  note = {Working paper; SSRN link and DOI pending}
+}
+```
+
+[CITATION.cff](CITATION.cff) supplies machine-readable software metadata and the preferred paper citation through GitHub’s **Cite this repository** option. The [versioned code and results release](https://github.com/murrayrudd/strategy-financing-rdm-v2/releases/tag/v2.0.0) provides a fixed reference for replication. The software has no separate DOI.
+
+## License
+
+Original project code and associated software documentation are available under the [MIT License](LICENSE.md). See [license scope](LICENSE_SCOPE.md) for coverage of inherited code and the distinction between software and data. Coin Metrics data retain CC BY-NC 4.0 terms; other third-party material retains its source terms. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Author
+
+**Murray A. Rudd, Ph.D.** – Institutional economist and policy researcher
+
+- ORCID: [0000-0001-9533-5070](https://orcid.org/0000-0001-9533-5070)
+- SSRN: [Author profile](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5958022)
+- Google Scholar: [Profile](https://scholar.google.co.uk/citations?hl=en&user=84qbofEAAAAJ)

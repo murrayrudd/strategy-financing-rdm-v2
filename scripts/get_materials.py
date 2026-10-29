@@ -63,7 +63,10 @@ def main():
             if len(content) != record['bytes'] or hashlib.sha256(content).hexdigest() != record['sha256']:
                 raise SystemExit('Archived file differs from its manifest: ' + name)
             target = ROOT / name
-            if target.exists() and sha256(target) != record['sha256']:
+            # Scientific files stay frozen; retain the checkout's current
+            # documentation and packaging scripts instead of restoring old copies.
+            frozen = name.startswith('model/') or name == 'requirements.txt'
+            if frozen and target.exists() and sha256(target) != record['sha256']:
                 raise SystemExit('Existing file has local changes; preserve them before extracting: ' + name)
         created = 0
         for name in expected:
