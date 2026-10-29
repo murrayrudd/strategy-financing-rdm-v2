@@ -2,7 +2,7 @@
 
 ## Current release: 2.0.0, October 29, 2026
 
-This repository accompanies the expanded paper **Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy**. It is the replacement analysis for the earlier *Strategy financing under deep uncertainty* working paper, rather than a replacement for the first historical financing-feasibility paper.
+This repository accompanies the expanded paper **Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy**. It replaces the earlier *Strategy financing under deep uncertainty* working paper on the same [SSRN record](https://doi.org/10.2139/ssrn.7632598), retaining DOI **10.2139/ssrn.7632598**. The first historical financing-feasibility paper remains a separate publication.
 
 The current study compares eight main policies, adds contractual STRC retirement and protected-retirement comparisons, tests alternative distribution screens and matched financing, and reports common residual-value and Bitcoin accumulation regret. It retains 49,114 base and supplementary simulations plus 12,178 technical-extension simulations, for 61,292 in total. BPS post-processing adds no simulations.
 
@@ -10,7 +10,7 @@ Release 2.0.0 packages the completed model and retained outputs. It changes no s
 
 ## Earlier RDM paper and repository
 
-- Paper: *Strategy financing under deep uncertainty*, https://doi.org/10.2139/ssrn.7632598.
+- Earlier title: *Strategy financing under deep uncertainty*. Its SSRN record, https://doi.org/10.2139/ssrn.7632598, now identifies the updated paper; the DOI is shared across versions.
 - Repository: https://github.com/murrayrudd/strategy-financing-rdm.
 - Preserved release: https://github.com/murrayrudd/strategy-financing-rdm/releases/tag/v1.1.0.
 

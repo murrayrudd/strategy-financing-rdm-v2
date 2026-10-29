@@ -2,7 +2,7 @@
 
 Self-contained code, data, and replication materials for Murray A. Rudd’s **Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy**.
 
-**Model release: 2.0.0 · October 29, 2026.** This release supports the expanded Strategy RDM paper. The SSRN link and DOI for this paper are pending and will be added when assigned. The replication materials below correspond to the updated model and retained results; links to the preceding papers appear under **Research basis**.
+**Model release: 2.0.0 · October 29, 2026.** This release supports the expanded Strategy RDM paper. The updated paper replaces the earlier *Strategy financing under deep uncertainty* paper on the same [SSRN record](https://doi.org/10.2139/ssrn.7632598), retaining DOI **10.2139/ssrn.7632598**. The replication materials below correspond to the updated model and retained results; links to the preceding papers appear under **Research basis**.
 
 The study examines Strategy’s long-term payment resilience and the consequences of financing decisions for preferred and common investors. Eight financing and liquidity policies face the same 2,000 exploratory futures under two common valuation mechanisms, with 512 challenge futures and a further 253-future structural and matched-funding analysis. The corporate opening is June 30, 2026, with primary evaluation dates in June 2031 and June 2033.
 
@@ -61,11 +61,11 @@ The figure set includes the corrected grayscale policy comparison and payment ch
 
 ## Research basis
 
-**Rudd, M. A. (2026).** *Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy*. Working paper.
+**Rudd, M. A. (2026).** *Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy*. SSRN working paper.
 
-**SSRN link and DOI: pending.** These will be added when assigned.
+[https://doi.org/10.2139/ssrn.7632598](https://doi.org/10.2139/ssrn.7632598).
 
-This paper updates the earlier [Strategy financing under deep uncertainty](https://doi.org/10.2139/ssrn.7632598) analysis and builds on [Financing feasibility and shareholder outcomes in a Bitcoin treasury company: Historical validation and conditional stress testing of Strategy](https://doi.org/10.2139/ssrn.7593458). The [earlier RDM replication repository](https://github.com/murrayrudd/strategy-financing-rdm) preserves that version’s model and results. The present repository includes all materials required to reproduce the expanded analysis and has no dependency on either earlier repository.
+This paper replaces the earlier *Strategy financing under deep uncertainty* version on the same SSRN record and builds on [Financing feasibility and shareholder outcomes in a Bitcoin treasury company: Historical validation and conditional stress testing of Strategy](https://doi.org/10.2139/ssrn.7593458). The [earlier RDM replication repository](https://github.com/murrayrudd/strategy-financing-rdm) preserves that version’s model and results. The present repository includes all materials required to reproduce the expanded analysis and has no dependency on either earlier repository.
 
 ## Citation
 
@@ -76,7 +76,9 @@ If you use this code or its results in research, please cite the accompanying pa
   author = {Rudd, Murray A.},
   title = {Financing resilience and shareholder outcomes in a Bitcoin treasury company: Robust decision making and regret analysis for Strategy},
   year = {2026},
-  note = {Working paper; SSRN link and DOI pending}
+  doi = {10.2139/ssrn.7632598},
+  url = {https://doi.org/10.2139/ssrn.7632598},
+  note = {SSRN working paper; updated version of Strategy financing under deep uncertainty}
 }
 ```
 
