@@ -1,0 +1,1218 @@
+[
+  {
+    "claim": "common_3m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_3m"
+    },
+    "values": {
+      "cash": 1782,
+      "joint": 668,
+      "regret_n": 1740,
+      "median": 5.126718413347895,
+      "p90": 33.84172258135763
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "dual_3m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_3m"
+    },
+    "values": {
+      "cash": 1767,
+      "joint": 529,
+      "regret_n": 1740,
+      "median": 0.0,
+      "p90": 27.28067130170146
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "capped_3m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_3m"
+    },
+    "values": {
+      "cash": 1766,
+      "joint": 533,
+      "regret_n": 1740,
+      "median": 1.8777763198210664,
+      "p90": 28.341777182455903
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "retire_3m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_3m"
+    },
+    "values": {
+      "cash": 1813,
+      "joint": 525,
+      "regret_n": 1740,
+      "median": 0.0,
+      "p90": 53.97360854912931
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "common_12m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m"
+    },
+    "values": {
+      "cash": 1857,
+      "joint": 680,
+      "regret_n": 1740,
+      "median": 11.994422122036625,
+      "p90": 81.46887591235102
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "dual_12m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_12m"
+    },
+    "values": {
+      "cash": 1844,
+      "joint": 531,
+      "regret_n": 1740,
+      "median": 20.266309313991723,
+      "p90": 64.86794481846103
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "capped_12m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_12m"
+    },
+    "values": {
+      "cash": 1841,
+      "joint": 536,
+      "regret_n": 1740,
+      "median": 20.341140422551007,
+      "p90": 65.68139853225462
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "retire_12m resilience and regret",
+    "source": "results/analysis/robustness_summary.json; results/technical_revision/regret_metric_diagnostics.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m"
+    },
+    "values": {
+      "cash": 1875,
+      "joint": 543,
+      "regret_n": 1740,
+      "median": 6.037699532623446,
+      "p90": 88.4951279213124
+    },
+    "manuscript_location": "Table 3"
+  },
+  {
+    "claim": "Capacity calendar_allowance common_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m",
+      "distribution_mode": "calendar_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 117,
+      "preferred_continuity": 78,
+      "common_preservation": 66,
+      "joint_success": 48
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity calendar_allowance retire_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m",
+      "distribution_mode": "calendar_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 57,
+      "common_preservation": 68,
+      "joint_success": 36
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity calendar_allowance retire_protected_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_protected_12m",
+      "distribution_mode": "calendar_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 76,
+      "common_preservation": 68,
+      "joint_success": 50
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity rolling_allowance common_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m",
+      "distribution_mode": "rolling_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 117,
+      "preferred_continuity": 78,
+      "common_preservation": 65,
+      "joint_success": 48
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity rolling_allowance retire_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m",
+      "distribution_mode": "rolling_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 57,
+      "common_preservation": 67,
+      "joint_success": 36
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity rolling_allowance retire_protected_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_protected_12m",
+      "distribution_mode": "rolling_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 70,
+      "common_preservation": 66,
+      "joint_success": 42
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity no_exogenous_allowance common_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m",
+      "distribution_mode": "no_exogenous_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 116,
+      "preferred_continuity": 115,
+      "common_preservation": 67,
+      "joint_success": 67
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity no_exogenous_allowance retire_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m",
+      "distribution_mode": "no_exogenous_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 117,
+      "common_preservation": 69,
+      "joint_success": 69
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Capacity no_exogenous_allowance retire_protected_12m",
+    "source": "results/technical_revision/capacity_outcome_counts.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_protected_12m",
+      "distribution_mode": "no_exogenous_allowance"
+    },
+    "values": {
+      "n": 125,
+      "cash_service": 119,
+      "preferred_continuity": 117,
+      "common_preservation": 69,
+      "joint_success": 69
+    },
+    "manuscript_location": "Table 4 and Figure 4A"
+  },
+  {
+    "claim": "Matched funding continuation replay_STRC_0pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_0pct"
+    },
+    "values": {
+      "policy": "replay_STRC_0pct",
+      "n": 92,
+      "cash_service": 92,
+      "preferred_continuity": 91,
+      "common_preservation": 62,
+      "joint_success": 62,
+      "paired_common_survivors": 92,
+      "median_backing_difference_per_share": 0.0,
+      "median_total_gross_usd": 6630842517.916586,
+      "max_funding_gap_before_stop_usd": 0.0,
+      "paired_joint_gains": 0,
+      "paired_joint_losses": 0
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Matched funding continuation replay_STRC_25pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_25pct"
+    },
+    "values": {
+      "policy": "replay_STRC_25pct",
+      "n": 92,
+      "cash_service": 91,
+      "preferred_continuity": 90,
+      "common_preservation": 60,
+      "joint_success": 60,
+      "paired_common_survivors": 91,
+      "median_backing_difference_per_share": -2.573222945926318,
+      "median_total_gross_usd": 6630840424.232353,
+      "max_funding_gap_before_stop_usd": 203861.64199632534,
+      "paired_joint_gains": 0,
+      "paired_joint_losses": 2
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Matched funding continuation replay_STRC_50pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_50pct"
+    },
+    "values": {
+      "policy": "replay_STRC_50pct",
+      "n": 92,
+      "cash_service": 90,
+      "preferred_continuity": 88,
+      "common_preservation": 59,
+      "joint_success": 59,
+      "paired_common_survivors": 90,
+      "median_backing_difference_per_share": -5.091300763342247,
+      "median_total_gross_usd": 6630840331.925711,
+      "max_funding_gap_before_stop_usd": 202534.88482140552,
+      "paired_joint_gains": 1,
+      "paired_joint_losses": 4
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Matched funding face replay_STRC_0pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "face",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_0pct"
+    },
+    "values": {
+      "policy": "replay_STRC_0pct",
+      "n": 92,
+      "cash_service": 92,
+      "preferred_continuity": 91,
+      "common_preservation": 62,
+      "joint_success": 62,
+      "paired_common_survivors": 92,
+      "median_backing_difference_per_share": 0.0,
+      "median_total_gross_usd": 6949630222.7145195,
+      "max_funding_gap_before_stop_usd": 0.0,
+      "paired_joint_gains": 0,
+      "paired_joint_losses": 0
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Matched funding face replay_STRC_25pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "face",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_25pct"
+    },
+    "values": {
+      "policy": "replay_STRC_25pct",
+      "n": 92,
+      "cash_service": 91,
+      "preferred_continuity": 90,
+      "common_preservation": 60,
+      "joint_success": 60,
+      "paired_common_survivors": 91,
+      "median_backing_difference_per_share": -2.891640726177002,
+      "median_total_gross_usd": 6949624710.21303,
+      "max_funding_gap_before_stop_usd": 247000.15251975114,
+      "paired_joint_gains": 0,
+      "paired_joint_losses": 2
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Matched funding face replay_STRC_50pct",
+    "source": "results/technical_revision/matched_funding_summary.json",
+    "selector": {
+      "phase": "main",
+      "structure": "face",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_50pct"
+    },
+    "values": {
+      "policy": "replay_STRC_50pct",
+      "n": 92,
+      "cash_service": 89,
+      "preferred_continuity": 87,
+      "common_preservation": 58,
+      "joint_success": 58,
+      "paired_common_survivors": 89,
+      "median_backing_difference_per_share": -5.875836694974822,
+      "median_total_gross_usd": 6949625533.383014,
+      "max_funding_gap_before_stop_usd": 233118.84211677845,
+      "paired_joint_gains": 0,
+      "paired_joint_losses": 4
+    },
+    "manuscript_location": "Table 5"
+  },
+  {
+    "claim": "Cash sign diagnostic",
+    "source": "results/technical_revision/cash_metric_diagnostics.json",
+    "selector": {
+      "scope": "both endpoints, common survival domains"
+    },
+    "values": {
+      "records": 3520,
+      "negative_signed": 381,
+      "negative_floored": 34
+    },
+    "manuscript_location": "Section 3.5 and Appendix B4"
+  },
+  {
+    "claim": "Capacity regret calendar_allowance common_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "calendar_allowance",
+      "policy": "common_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 3.6371783921455005,
+      "floored_p90_regret_per_share": 19.709100861870922,
+      "floored_max_regret_per_share": 113.1030647853263
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Capacity regret calendar_allowance retire_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "calendar_allowance",
+      "policy": "retire_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 0.0,
+      "floored_p90_regret_per_share": 33.0859140822731,
+      "floored_max_regret_per_share": 139.43656109879907
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Capacity regret calendar_allowance retire_protected_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "calendar_allowance",
+      "policy": "retire_protected_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 0.07963301660170963,
+      "floored_p90_regret_per_share": 28.33730983567621,
+      "floored_max_regret_per_share": 139.43656109879907
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Capacity regret no_exogenous_allowance common_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "no_exogenous_allowance",
+      "policy": "common_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 5.468649318877798,
+      "floored_p90_regret_per_share": 23.459584703640193,
+      "floored_max_regret_per_share": 113.1030647853263
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Capacity regret no_exogenous_allowance retire_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "no_exogenous_allowance",
+      "policy": "retire_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 0.0,
+      "floored_p90_regret_per_share": 35.72455247187396,
+      "floored_max_regret_per_share": 155.93226670813772
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Capacity regret no_exogenous_allowance retire_protected_12m",
+    "source": "results/technical_revision/capacity_regret_common_domain.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "distribution_mode": "no_exogenous_allowance",
+      "policy": "retire_protected_12m"
+    },
+    "values": {
+      "n": 110,
+      "floored_median_regret_per_share": 0.0,
+      "floored_p90_regret_per_share": 35.72455247187396,
+      "floored_max_regret_per_share": 155.93226670813772
+    },
+    "manuscript_location": "Section 3.2 and Figure 4B"
+  },
+  {
+    "claim": "Bitcoin accumulation common_3m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_3m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_3m",
+      "n": 2000,
+      "cash_service": 1782,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 966,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1782,
+        "p10": -98.70539308033327,
+        "median": -38.76815562405739,
+        "p90": -18.517270434582347
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -97.53908981822579,
+        "median": -38.266251050723284,
+        "p90": -18.518421161605023
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 5602.565140165651,
+        "median": 140544.48325521618,
+        "p90": 185502.85034642386
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 6464.483998739137,
+        "p90": 20925.796571474482
+      },
+      "BPS_regret_max_sats": 66665.39397759894
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation dual_3m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_3m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_3m",
+      "n": 2000,
+      "cash_service": 1767,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 930,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1767,
+        "p10": -100.0,
+        "median": -36.51854742366846,
+        "p90": -13.863710208718913
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -100.0,
+        "median": -36.54311348342009,
+        "p90": -13.891308505007883
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 144467.41816677098,
+        "p90": 196037.04223260665
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 0.0,
+        "p90": 26917.89450924856
+      },
+      "BPS_regret_max_sats": 109053.06988550279
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation capped_3m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_3m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_3m",
+      "n": 2000,
+      "cash_service": 1766,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 929,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1766,
+        "p10": -100.0,
+        "median": -37.20638228782217,
+        "p90": -14.072930399264338
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -100.0,
+        "median": -37.351115425052555,
+        "p90": -14.167733564511305
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 142627.9022247009,
+        "p90": 195407.72653725464
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 789.9873952118262,
+        "p90": 27279.96656945118
+      },
+      "BPS_regret_max_sats": 109175.89609361948
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation retire_3m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_3m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_3m",
+      "n": 2000,
+      "cash_service": 1813,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 980,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1813,
+        "p10": -97.28993764350533,
+        "median": -40.95728325904253,
+        "p90": -21.623678746008522
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -92.01010346899649,
+        "median": -39.609102801282226,
+        "p90": -21.540164300809945
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 18189.983571792927,
+        "median": 137487.3158454459,
+        "p90": 178623.4799006326
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 5375.195700833021,
+        "p90": 26610.830082214485
+      },
+      "BPS_regret_max_sats": 68799.63410265191
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation common_12m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "common_12m",
+      "n": 2000,
+      "cash_service": 1857,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 972,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1857,
+        "p10": -100.0,
+        "median": -44.046921132297925,
+        "p90": -22.49883254560273
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -97.6699629921948,
+        "median": -42.120776131059905,
+        "p90": -22.49654928639093
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 5304.616239920572,
+        "median": 131769.18214633173,
+        "p90": 176446.15168261091
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 800.8178255798604,
+        "median": 14440.994521183457,
+        "p90": 29304.148992380466
+      },
+      "BPS_regret_max_sats": 70127.0343995801
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation dual_12m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_12m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "dual_12m",
+      "n": 2000,
+      "cash_service": 1844,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 925,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1844,
+        "p10": -100.0,
+        "median": -43.260951827968896,
+        "p90": -18.471717059775727
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -100.0,
+        "median": -41.91757006128557,
+        "p90": -18.470567165003015
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 132231.80579315132,
+        "p90": 185611.7958638855
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 1560.5690979014807,
+        "median": 11968.830749996294,
+        "p90": 34860.31826287703
+      },
+      "BPS_regret_max_sats": 124104.67873934921
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation capped_12m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_12m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "capped_12m",
+      "n": 2000,
+      "cash_service": 1841,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 925,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1841,
+        "p10": -100.0,
+        "median": -44.34655981412009,
+        "p90": -18.598336772007872
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -100.0,
+        "median": -42.69184117917055,
+        "p90": -18.590068620912355
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 130469.08222598233,
+        "p90": 185339.7360804626
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 3489.3001927106893,
+        "median": 12551.212147447146,
+        "p90": 35320.56597660503
+      },
+      "BPS_regret_max_sats": 123983.93439218376
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Bitcoin accumulation retire_12m",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "retire_12m",
+      "n": 2000,
+      "cash_service": 1875,
+      "cash_and_BPS_growth": 0,
+      "BPS_growth_and_common_preservation": 0,
+      "common_preservation_without_BPS_growth": 981,
+      "BPS_growth_without_common_preservation": 0,
+      "joint_success_and_BPS_growth": 0,
+      "policy_survivor_growth_pct": {
+        "n": 1875,
+        "p10": -100.0,
+        "median": -45.05200770573167,
+        "p90": -24.412182606089804
+      },
+      "shared_survivor_growth_pct": {
+        "n": 1740,
+        "p10": -95.23335717363446,
+        "median": -43.248951905723224,
+        "p90": -24.27686233394137
+      },
+      "shared_survivor_BPS_sats": {
+        "n": 1740,
+        "p10": 10851.849503651056,
+        "median": 129200.75103741937,
+        "p90": 172393.04974794498
+      },
+      "BPS_regret_sats": {
+        "n": 1740,
+        "p10": 0.0,
+        "median": 14030.386107085506,
+        "p90": 33426.507684500284
+      },
+      "BPS_regret_max_sats": 77472.39664825053
+    },
+    "manuscript_location": "Section 3.6 and Table 6"
+  },
+  {
+    "claim": "Accumulation scope main continuation 2031-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2031-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 3,
+        "capped_3m": 3,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 1885
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope main continuation 2033-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 0,
+        "capped_3m": 0,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 1740
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope main face 2031-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "face",
+      "horizon": "2031-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 2,
+        "capped_3m": 2,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 1868
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope main face 2033-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "face",
+      "horizon": "2033-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 1,
+        "capped_3m": 1,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 1710
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope challenge continuation 2031-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "challenge",
+      "structure": "continuation",
+      "horizon": "2031-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 1,
+        "capped_3m": 1,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 476
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope challenge continuation 2033-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "challenge",
+      "structure": "continuation",
+      "horizon": "2033-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 1,
+        "capped_3m": 1,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 427
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope challenge face 2031-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "challenge",
+      "structure": "face",
+      "horizon": "2031-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 1,
+        "capped_3m": 1,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 468
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Accumulation scope challenge face 2033-06-30",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "challenge",
+      "structure": "face",
+      "horizon": "2033-06-30"
+    },
+    "values": {
+      "policy_counts": {
+        "common_3m": 0,
+        "dual_3m": 1,
+        "capped_3m": 1,
+        "retire_3m": 0,
+        "common_12m": 0,
+        "dual_12m": 0,
+        "capped_12m": 0,
+        "retire_12m": 0
+      },
+      "shared_survivors": 419
+    },
+    "manuscript_location": "Table B8"
+  },
+  {
+    "claim": "Matched accumulation 25",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_25pct"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_25pct",
+      "n": 92,
+      "paired_survivors": 91,
+      "cash_and_BPS_growth": 0,
+      "BPS_difference_sats": {
+        "n": 91,
+        "p10": -3592.0838325173545,
+        "median": 1251.1313675847005,
+        "p90": 5483.987879122999
+      },
+      "higher_BPS_lower_backing": 30
+    },
+    "manuscript_location": "Section 3.4 and Appendix B9"
+  },
+  {
+    "claim": "Matched accumulation 50",
+    "source": "analysis/bitcoin_per_share_analysis.json",
+    "selector": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_50pct"
+    },
+    "values": {
+      "phase": "main",
+      "structure": "continuation",
+      "horizon": "2033-06-30",
+      "policy": "replay_STRC_50pct",
+      "n": 92,
+      "paired_survivors": 90,
+      "cash_and_BPS_growth": 0,
+      "BPS_difference_sats": {
+        "n": 90,
+        "p10": -7402.814343624061,
+        "median": 2684.2564371333533,
+        "p90": 11932.486704727122
+      },
+      "higher_BPS_lower_backing": 29
+    },
+    "manuscript_location": "Section 3.4 and Appendix B9"
+  }
+]

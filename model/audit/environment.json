@@ -1,0 +1,22 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8",
+    "seaborn": "0.13.2",
+    "lxml": "6.1.1",
+    "python-docx": "1.2.0",
+    "ema-workbench": "3.0.0",
+    "platypus-opt": "1.4.1",
+    "salib": "1.6.0",
+    "tqdm": "4.70.1",
+    "statsmodels": "0.15.0",
+    "multiprocess": "0.70.19",
+    "dill": "0.4.1",
+    "patsy": "1.0.3"
+  }
+}

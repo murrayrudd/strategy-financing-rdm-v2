@@ -1,0 +1,1423 @@
+[
+  {
+    "id": "challenge_0123",
+    "type": "refinement_cash_loss",
+    "structure": "face",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "STRC_dividend": 0.0,
+          "STRC_redemption": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 0.0,
+          "operating_receipt": 0.0,
+          "other_interest": 0.0,
+          "redemption_release_setaside": 0.0,
+          "redemption_setaside": 0.0,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 50702730.850509554,
+          "Bitcoin_settlement": -357174396.3866183,
+          "STRC_dividend": -474590010.59625435,
+          "STRC_redemption": 810184024.0,
+          "STRD_dividend": -70121105.0,
+          "STRE_dividend": -42438195.80591343,
+          "STRF_dividend": -64198445.0,
+          "STRK_dividend": -42129214.71470198,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 27.97801637649536,
+          "operating_receipt": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": -814996998.4000001,
+          "redemption_setaside": 814996998.4000001,
+          "treasury_settlement": -261460462.90971598
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": -63444326.71146202,
+          "STRC_dividend": 266116528.64758468,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 42847214.46128607,
+          "STRF_dividend": 65081173.618750006,
+          "STRK_dividend": 37169346.62801936,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_receipt": 0.0,
+          "treasury_settlement": 261460462.909716
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 164076245.5129919,
+          "STRC_dividend": -167087548.08691096,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -451188.17938154936,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 161262116.0513897,
+          "STRC_dividend": -161262116.05138803,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": -110143156.17666864,
+          "STRC_dividend": -161262116.05138803,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "STRC_dividend": -5826119.975274682,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 2303209.8481981754,
+          "operating_receipt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "challenge_0267",
+    "type": "refinement_cash_loss",
+    "structure": "face",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_settlement": 0.0,
+          "STRC_dividend": 0.0,
+          "STRC_redemption": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 0.0,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": 0.0,
+          "redemption_setaside": 0.0,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 23850747.05611022,
+          "Bitcoin_settlement": -825184371.2076352,
+          "STRC_dividend": -699867483.7321522,
+          "STRC_redemption": 1091361358.0,
+          "STRD_dividend": -70121105.0,
+          "STRE_dividend": -44556030.67543121,
+          "STRF_dividend": -64198445.0,
+          "STRK_dividend": -26358387.901705127,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -23.604169845581055,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -1097844692.8000002,
+          "redemption_setaside": 1097844692.8000002
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": 321191929.3415961,
+          "STRC_dividend": 201316288.95689034,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 45204089.05982107,
+          "STRF_dividend": 65081173.618750006,
+          "STRK_dividend": 14305778.765976325,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 22.589090724644688,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 252031346.17955303,
+          "STRC_dividend": 34396295.53934693,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 664256.9606534541,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 218542589.68647814,
+          "STRC_dividend": -272921459.42011714,
+          "STRD_dividend": 35060552.5,
+          "STRE_dividend": 22680509.013263047,
+          "STRF_dividend": -664256.9606534541,
+          "STRK_dividend": 28041488.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": 183257632.63848734,
+          "STRC_dividend": -237894585.19767284,
+          "STRD_dividend": 35060552.5,
+          "STRE_dividend": -22681220.25693941,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -25272251.760731697,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -1426852888.148511,
+          "STRC_dividend": -214454743.17167974,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -2769236.239268318,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_settlement": -358223242.27965623,
+          "STRC_dividend": 46011311.73604095,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 22538164.45686455
+        }
+      }
+    ]
+  },
+  {
+    "id": "challenge_0267",
+    "type": "refinement_cash_loss",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_settlement": 0.0,
+          "STRC_dividend": 0.0,
+          "STRC_redemption": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 0.0,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": 0.0,
+          "redemption_setaside": 0.0,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 25333852.698015425,
+          "Bitcoin_settlement": -827754368.6384346,
+          "STRC_dividend": -700860030.613637,
+          "STRC_redemption": 1091615373.0,
+          "STRD_dividend": -70121105.0,
+          "STRE_dividend": -44556030.67543121,
+          "STRF_dividend": -64198445.0,
+          "STRK_dividend": -23541296.39479113,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 25.795841217041016,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -1098100216.8,
+          "redemption_setaside": 1098100216.8
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": 319713013.5394449,
+          "STRC_dividend": 213876891.8849671,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 45204089.05982107,
+          "STRF_dividend": 65081173.618750006,
+          "STRK_dividend": 14078504.519468114,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -19.71175892473566,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 252553572.3450389,
+          "STRC_dividend": 25048566.138002872,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": 10383943.022780776,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -371956.66078330576,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -4.188658097503623,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 219145750.45092535,
+          "STRC_dividend": -288073560.9471412,
+          "STRD_dividend": 35060552.5,
+          "STRE_dividend": 12296240.357851803,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 26840963.14370671,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -1.8227056338308703,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": 184782459.67776012,
+          "STRC_dividend": -225444040.33452034,
+          "STRD_dividend": 35060552.5,
+          "STRE_dividend": -22681220.25693941,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -29192640.709109098,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 0.35868483021590053,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -1374700779.629241,
+          "STRC_dividend": -214504657.63968563,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": -332787.40055157244,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_settlement": -481551588.7741814,
+          "STRC_dividend": -5376213.755420208,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 22538164.45686455
+        }
+      }
+    ]
+  },
+  {
+    "id": "challenge_0420",
+    "type": "refinement_cash_loss",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "STRC_dividend": -60626296.27014983,
+          "STRC_redemption": 291717997.0,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": -22247650.453369446,
+          "STRF_dividend": -2925717.6197506785,
+          "STRK_dividend": -28041488.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 3.035708427429199,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": -293450975.1999999,
+          "redemption_setaside": 293450975.1999999,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": -270077197.6761265,
+          "Bitcoin_settlement": -154788438.8873417,
+          "STRC_dividend": -940107552.8124518,
+          "STRC_redemption": 1157207500.0,
+          "STRD_dividend": -105181657.5,
+          "STRE_dividend": -22604074.30729842,
+          "STRF_dividend": -61272727.38024932,
+          "STRK_dividend": -28041488.0,
+          "cash_tax": 6571320.8313889615,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 78.02505588531494,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -1164082000.0,
+          "redemption_setaside": 1164082000.0,
+          "treasury_settlement": -534731056.402794
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_purchase": 717995493.0263929,
+          "Bitcoin_settlement": -1125702599.3026793,
+          "STRC_dividend": -41425458.23513007,
+          "STRC_redemption": 171208433.0,
+          "STRD_dividend": -70121105.0,
+          "STRE_dividend": -21036772.780955985,
+          "STRF_dividend": -28060702.726804197,
+          "STRK_dividend": -10564394.257109717,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 25.746976375579834,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -172225512.8,
+          "redemption_setaside": 172225512.8,
+          "treasury_settlement": 534731056.402794
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 273308987.9608183,
+          "STRC_dividend": -8348551.37927556,
+          "STRD_dividend": -70121105.0,
+          "STRE_dividend": 26689378.981778905,
+          "STRF_dividend": 36427775.7498368,
+          "STRK_dividend": 15352501.647659928,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 241262005.2513361,
+          "STRC_dividend": -59329270.452796936,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": 26551427.821767956,
+          "STRF_dividend": 36947667.618325144,
+          "STRK_dividend": 30890727.512704015,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": 74852754.98650265,
+          "STRC_dividend": -3724547.811519861,
+          "STRE_dividend": 25604607.976409286,
+          "STRF_dividend": 10943673.173504144,
+          "STRK_dividend": -32823733.3383936,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "STRC_dividend": 107086630.25181127,
+          "STRE_dividend": -61009372.31375664,
+          "STRF_dividend": 26369322.038811505,
+          "STRK_dividend": -72446579.97686614,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "STRC_dividend": 16742832.514432907,
+          "STRE_dividend": 37526406.472657315,
+          "STRF_dividend": 0.0,
+          "operating_payment": 5119450.414764906
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_1872",
+    "type": "negative_cash_effect",
+    "structure": "face",
+    "policy": "capped_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_purchase": -1.3547348976135254,
+          "Bitcoin_settlement": -101613683.28510845,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 1613693.2797129047,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -13.854662895202637,
+          "issue_STRC": 0.0,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 106.2623643875122,
+          "Bitcoin_settlement": 819.0647253990173,
+          "STRC_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": -817.6610858151689,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -103.68733024597168,
+          "issue_STRC": 0.0,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_purchase": -71.31842088699341,
+          "Bitcoin_settlement": 9.57748007774353,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 62.97706079483032,
+          "issue_STRC": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 0.0,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 21278338.36776972,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "operating_payment": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_0432",
+    "type": "valuation_ranking_reversal",
+    "structure": "face",
+    "policy": "common_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_purchase": -65236.013456106186,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 65141.07792570535,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 140.32990169525146,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "treasury_settlement": -100000000.00000003
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": -87.53899252414703,
+          "Bitcoin_settlement": -39.16577625274658,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_converting_holder_dividend_in": 0.0,
+          "cash_tax": 39.165777921676636,
+          "conversion_cash": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -99999957.85537887,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "treasury_settlement": 100000000.0
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": -53.26293182373047,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 53.262932151556015,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": -39.398287296295166,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 39.398287534713745,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": -54.576862812042236,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 54.57686260342598,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": -23.31076669692993,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 23.310766879469156,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -24.629974365234375,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 24.629974015057087,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_purchase": 678.2455433607101,
+          "Bitcoin_settlement": -11.381077766418457,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 11.38107793033123,
+          "issue_MSTR": -678.2455433607101,
+          "operating_payment": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_0432",
+    "type": "valuation_ranking_reversal",
+    "structure": "face",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "STRC_dividend": 1876.0091940164566,
+          "STRC_redemption": -75346.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 65140.071971451864,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -132.21029043197632,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "redemption_release_setaside": 75793.59999990463,
+          "redemption_setaside": -75793.59999990463,
+          "treasury_settlement": -100000000.00000003
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_settlement": -10168.037249565125,
+          "STRC_dividend": 12103.513897180557,
+          "STRC_redemption": -6767.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_converting_holder_dividend_in": 0.0,
+          "STRK_dividend": -1e-20,
+          "cash_tax": 663.5727891921997,
+          "conversion_cash": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -100000869.11003757,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": 6807.199999809265,
+          "redemption_setaside": -6807.199999809265,
+          "treasury_settlement": 100000000.0
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": -14734.763002872467,
+          "STRC_dividend": 13482.252225637436,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 851.6895722448826,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": -14987.809599161148,
+          "STRC_dividend": 14560.48673415184,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 828.1440682560205,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": -14734.942373275757,
+          "STRC_dividend": 14086.111017942429,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 648.8313544243574,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": -14256.410158395767,
+          "STRC_dividend": 14086.111017942429,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 170.29914006963372,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -14321.17664861679,
+          "STRC_dividend": 14086.111017942429,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 235.06562971323729,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_settlement": -6622.122201561928,
+          "STRC_dividend": 7010.558502793312,
+          "STRC_redemption": -707.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 426.3740681633353,
+          "issue_MSTR": -224.0395551919937,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": 711.2000000476837,
+          "redemption_setaside": -711.2000000476837
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_0432",
+    "type": "valuation_ranking_reversal",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_purchase": -38039.17793083191,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 79228.9518970903,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 69.09069538116455,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "treasury_settlement": -100000000.00000006
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": -205.169740319252,
+          "Bitcoin_settlement": -3594153.4712018967,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_converting_holder_dividend_in": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 119021.55821543932,
+          "conversion_cash": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -96565921.78193617,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "treasury_settlement": 99999999.99999994
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": 28.878342151641846,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -28.878343015909195,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": 31.649423599243164,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -31.649423837661743,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": 29.59740400314331,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -29.597403690218925,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": 12.643386840820312,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -12.64338655769825,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": 13.358854293823242,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -13.358854293823242,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_purchase": 359.49488961696625,
+          "Bitcoin_settlement": 16.98054337501526,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": -16.980543479323387,
+          "issue_MSTR": -359.4948896765709,
+          "operating_payment": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_0432",
+    "type": "valuation_ranking_reversal",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "STRC_dividend": 1105.441160440445,
+          "STRC_redemption": -44339.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 80235.83160156198,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 59.09700798988342,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "redemption_release_setaside": 44602.40000009537,
+          "redemption_setaside": -44602.40000009537,
+          "treasury_settlement": -100000819.70073462
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_settlement": -6129.721779823303,
+          "STRC_dividend": 6764.316071033478,
+          "STRC_redemption": -1111.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_converting_holder_dividend_in": 0.0,
+          "STRK_dividend": 1e-20,
+          "cash_tax": 396.7445450425148,
+          "conversion_cash": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -100044453.58483815,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": 1117.5999999046326,
+          "redemption_setaside": -1117.5999999046326,
+          "treasury_settlement": 100000819.70073462
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_settlement": -8155.7728152275085,
+          "STRC_dividend": 7462.501233100891,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 471.4148282110691,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_settlement": -8295.835570335388,
+          "STRC_dividend": 8059.310001850128,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 458.38232558965683,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_settlement": -8155.872161865234,
+          "STRC_dividend": 7796.74041724205,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 359.1317459791899,
+          "debt_principal": 0.0,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": -7891.001933336258,
+          "STRC_dividend": 7796.74041724205,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 94.26151664555073,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -7926.8505437374115,
+          "STRC_dividend": 7796.74041724205,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 130.11012714728713,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_settlement": -3734.2623085975647,
+          "STRC_dividend": 3910.9571256637573,
+          "STRC_redemption": -1010.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 240.51423943042755,
+          "issue_MSTR": 426.74924939870834,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": 1016.0,
+          "redemption_setaside": -1016.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_0976",
+    "type": "negative_floored_cash_effect",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_purchase": -68.64992427825928,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": 18.642486095428467,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "treasury_settlement": -99999958.25810663
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 257830679.52898288,
+          "Bitcoin_settlement": 42169253.94292927,
+          "STRC_dividend": 0.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -399999883.4644735,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0,
+          "treasury_settlement": 99999958.25810677
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_purchase": 304972554.4625681,
+          "Bitcoin_settlement": 134500398.41732502,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -296090641.06668997,
+          "issue_STRC": -183239704.7083274,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_purchase": -24431958.667639017,
+          "Bitcoin_settlement": -11436132.257479668,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -1322532.8674635887,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_purchase": -7599898.562375069,
+          "Bitcoin_settlement": -35586139.77189875,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 1192510.605558142,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -4101369.931079626,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "Bitcoin_settlement": -51710588.052651405,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 11264998.828524768,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -16685466.229984283,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "Bitcoin_settlement": -72162369.90256596,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 18550622.190713763,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": -17197770.543085814,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "Bitcoin_settlement": -50454208.563818455,
+          "STRC_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "cash_tax": 13785088.860750675,
+          "issue_MSTR": -4859854.401721001,
+          "issue_STRC": 0.0,
+          "operating_receipt": 0.0
+        }
+      }
+    ]
+  },
+  {
+    "id": "main_1664",
+    "type": "negative_floored_cash_effect",
+    "structure": "face",
+    "policy": "retire_3m",
+    "annual_cash_flow_differences": [
+      {
+        "year": "2026",
+        "differences": {
+          "Bitcoin_purchase": -293533898.9670033,
+          "STRC_dividend": 104736846.81102246,
+          "STRC_redemption": -106657212.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 1920365.1889774054,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "debt_coupon": 0.0,
+          "issue_MSTR": -370.70470333099365,
+          "operating_payment": 0.0,
+          "other_interest": 0.0,
+          "other_principal": 0.0,
+          "redemption_release_setaside": 107290819.20000029,
+          "redemption_setaside": -107290819.20000029
+        }
+      },
+      {
+        "year": "2027",
+        "differences": {
+          "Bitcoin_purchase": 299711696.4735156,
+          "Bitcoin_settlement": -293223184.6497946,
+          "STRC_dividend": -281369218.2068002,
+          "STRC_redemption": 313391183.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": -32021964.793199494,
+          "STRK_dividend": 0.0,
+          "cash_tax": 275138.4794960944,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 2966345.759115696,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -315252912.7999997,
+          "redemption_setaside": 315252912.7999997,
+          "treasury_settlement": 0.0
+        }
+      },
+      {
+        "year": "2028",
+        "differences": {
+          "Bitcoin_purchase": 45283806.89175725,
+          "Bitcoin_settlement": 5717304.7116642,
+          "STRC_dividend": 44480436.8744576,
+          "STRC_redemption": 9771346.0,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": -22079135.967795745,
+          "STRF_dividend": 30929393.59333819,
+          "STRK_dividend": -28041488.0,
+          "cash_tax": -3703.6603696839884,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 1242938.0149612427,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -9829393.599999905,
+          "redemption_setaside": 9829393.599999905
+        }
+      },
+      {
+        "year": "2029",
+        "differences": {
+          "Bitcoin_purchase": 13114443.635185719,
+          "Bitcoin_settlement": 1401311.1550293565,
+          "STRC_dividend": 15625778.341243744,
+          "STRC_redemption": 14707519.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 614964.4029472321,
+          "STRF_dividend": -31509091.504190862,
+          "STRK_dividend": 560829.7599999905,
+          "cash_tax": -2103.4198539158097,
+          "debt_coupon": 0.0,
+          "debt_principal": 0.0,
+          "issue_MSTR": 1386255.6027107239,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -14794890.400000095,
+          "redemption_setaside": 14794890.400000095
+        }
+      },
+      {
+        "year": "2030",
+        "differences": {
+          "Bitcoin_purchase": 1984638615.704543,
+          "STRC_dividend": -38496086.46851462,
+          "STRC_redemption": 14565816.0,
+          "STRD_dividend": -35060552.5,
+          "STRE_dividend": 22672740.846666366,
+          "STRF_dividend": 32375591.520556122,
+          "STRK_dividend": 3942490.601292178,
+          "cash_tax": 0.0,
+          "issue_MSTR": 80.57753086090088,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": -14652345.599999905,
+          "redemption_setaside": 14652345.599999905
+        }
+      },
+      {
+        "year": "2031",
+        "differences": {
+          "STRC_dividend": 81196671.51939903,
+          "STRC_redemption": -245778652.0,
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 25153023.701881975,
+          "cash_tax": 0.0,
+          "issue_MSTR": 145.94488716125488,
+          "operating_payment": 0.0,
+          "redemption_release_setaside": 247238723.20000005,
+          "redemption_setaside": -247238723.20000005
+        }
+      },
+      {
+        "year": "2032",
+        "differences": {
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "issue_MSTR": -960.097620010376,
+          "operating_payment": 0.0
+        }
+      },
+      {
+        "year": "2033",
+        "differences": {
+          "STRD_dividend": 0.0,
+          "STRE_dividend": 0.0,
+          "STRF_dividend": 0.0,
+          "STRK_dividend": 0.0,
+          "cash_tax": 0.0,
+          "issue_MSTR": -526.4231009483337,
+          "operating_payment": 0.0
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "n": 2000,
+    "quote_at_least_opening": 896,
+    "backing_at_least_opening": 862,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "n": 2000,
+    "quote_at_least_opening": 910,
+    "backing_at_least_opening": 863,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "n": 2000,
+    "quote_at_least_opening": 920,
+    "backing_at_least_opening": 896,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "n": 2000,
+    "quote_at_least_opening": 922,
+    "backing_at_least_opening": 896,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "n": 2000,
+    "quote_at_least_opening": 904,
+    "backing_at_least_opening": 864,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "n": 2000,
+    "quote_at_least_opening": 912,
+    "backing_at_least_opening": 868,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "n": 2000,
+    "quote_at_least_opening": 930,
+    "backing_at_least_opening": 907,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "n": 2000,
+    "quote_at_least_opening": 928,
+    "backing_at_least_opening": 902,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "n": 2000,
+    "quote_at_least_opening": 885,
+    "backing_at_least_opening": 851,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "n": 2000,
+    "quote_at_least_opening": 885,
+    "backing_at_least_opening": 847,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "n": 2000,
+    "quote_at_least_opening": 926,
+    "backing_at_least_opening": 888,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "n": 2000,
+    "quote_at_least_opening": 919,
+    "backing_at_least_opening": 880,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "n": 2000,
+    "quote_at_least_opening": 886,
+    "backing_at_least_opening": 856,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "n": 2000,
+    "quote_at_least_opening": 885,
+    "backing_at_least_opening": 850,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "n": 2000,
+    "quote_at_least_opening": 944,
+    "backing_at_least_opening": 903,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "n": 2000,
+    "quote_at_least_opening": 938,
+    "backing_at_least_opening": 894,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "n": 2000,
+    "quote_at_least_opening": 951,
+    "backing_at_least_opening": 925,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "n": 2000,
+    "quote_at_least_opening": 956,
+    "backing_at_least_opening": 929,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "n": 2000,
+    "quote_at_least_opening": 985,
+    "backing_at_least_opening": 972,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "n": 2000,
+    "quote_at_least_opening": 989,
+    "backing_at_least_opening": 966,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "n": 2000,
+    "quote_at_least_opening": 951,
+    "backing_at_least_opening": 925,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "n": 2000,
+    "quote_at_least_opening": 961,
+    "backing_at_least_opening": 930,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "n": 2000,
+    "quote_at_least_opening": 1003,
+    "backing_at_least_opening": 981,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "n": 2000,
+    "quote_at_least_opening": 1002,
+    "backing_at_least_opening": 980,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "n": 2000,
+    "quote_at_least_opening": 937,
+    "backing_at_least_opening": 910,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "n": 2000,
+    "quote_at_least_opening": 933,
+    "backing_at_least_opening": 917,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "n": 2000,
+    "quote_at_least_opening": 983,
+    "backing_at_least_opening": 961,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "n": 2000,
+    "quote_at_least_opening": 981,
+    "backing_at_least_opening": 955,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "n": 2000,
+    "quote_at_least_opening": 938,
+    "backing_at_least_opening": 912,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "n": 2000,
+    "quote_at_least_opening": 935,
+    "backing_at_least_opening": 919,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "n": 2000,
+    "quote_at_least_opening": 1014,
+    "backing_at_least_opening": 977,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "n": 2000,
+    "quote_at_least_opening": 1007,
+    "backing_at_least_opening": 973,
+    "interpretation": "Conditional market quote and asset backing answer different questions; neither is a forecast or probability."
+  }
+]

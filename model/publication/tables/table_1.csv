@@ -1,0 +1,5 @@
+Family,Financing and allocation rule,Liquidity targets
+Common,Common funding and eligible common growth issuance; surplus allocated to Bitcoin,3 or 12 months
+Dual,Common rule plus monthly STRC issuance,3 or 12 months
+Capped dual,Dual rule with preferred claims limited to 50% of assets when evaluating new issuance,3 or 12 months
+Retirement,Common financing with eligible surplus directed to ordinary STRC redemption,3 or 12 months

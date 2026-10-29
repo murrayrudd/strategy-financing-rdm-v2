@@ -1,0 +1,282 @@
+{
+  "main_futures": 2000,
+  "challenge_futures": 512,
+  "cash_futures": 125,
+  "cash_increment_usd": 100000000.0,
+  "cash_selection": "Every sixteenth main future in immutable generation order",
+  "policies": [
+    {
+      "name": "common_3m",
+      "reserve_months": 3,
+      "strc_monthly_gross": 0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "dual_3m",
+      "reserve_months": 3,
+      "strc_monthly_gross": 400000000.0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "capped_3m",
+      "reserve_months": 3,
+      "strc_monthly_gross": 400000000.0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": 0.5,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "retire_3m",
+      "reserve_months": 3,
+      "strc_monthly_gross": 0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": true,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "common_12m",
+      "reserve_months": 12,
+      "strc_monthly_gross": 0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "dual_12m",
+      "reserve_months": 12,
+      "strc_monthly_gross": 400000000.0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "capped_12m",
+      "reserve_months": 12,
+      "strc_monthly_gross": 400000000.0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": 0.5,
+      "retire_strc_surplus": false,
+      "common_growth_rule": "premium"
+    },
+    {
+      "name": "retire_12m",
+      "reserve_months": 12,
+      "strc_monthly_gross": 0,
+      "common_monthly_growth": 400000000.0,
+      "preferred_asset_cap": null,
+      "retire_strc_surplus": true,
+      "common_growth_rule": "premium"
+    }
+  ],
+  "structures": [
+    "face",
+    "continuation"
+  ],
+  "horizons": [
+    "2031-06-30",
+    "2033-06-30"
+  ],
+  "ranges": {
+    "cagr": [
+      -0.3,
+      0.45
+    ],
+    "valuation_factor": [
+      0.35,
+      2.5
+    ],
+    "shock_depth": [
+      0.15,
+      0.85
+    ],
+    "shock_start": [
+      0.25,
+      5.5
+    ],
+    "recovery_years": [
+      0.4,
+      4.0
+    ],
+    "closure_months": [
+      0.0,
+      60.0
+    ],
+    "closure_threshold": [
+      0.2,
+      0.65
+    ],
+    "capacity": [
+      0.05,
+      1.25
+    ],
+    "closure_start": [
+      0.25,
+      6.0
+    ],
+    "strc_rate": [
+      0.1,
+      0.18
+    ],
+    "stress_spread": [
+      0.0,
+      0.06
+    ],
+    "strc_discount": [
+      0.0,
+      20.0
+    ],
+    "operating_cashflow": [
+      -300000000.0,
+      100000000.0
+    ],
+    "fx_factor": [
+      0.75,
+      1.35
+    ],
+    "valuation_stress": [
+      0.0,
+      1.2
+    ],
+    "tax_rate": [
+      0.0,
+      0.35
+    ],
+    "basis_fraction": [
+      0.4,
+      1.2
+    ],
+    "annual_legal_budget": [
+      500000000.0,
+      6000000000.0
+    ],
+    "common_budget": [
+      3000000000.0,
+      12000000000.0
+    ],
+    "strc_budget": [
+      3000000000.0,
+      12000000000.0
+    ],
+    "loan_rate": [
+      0.05,
+      0.15
+    ],
+    "preferred_premium": [
+      0.0,
+      0.3
+    ],
+    "reference_volatility": [
+      0.35,
+      1.0
+    ],
+    "reference_years": [
+      1.0,
+      5.0
+    ]
+  },
+  "categorical_allocations": {
+    "put_fraction": [
+      0.0,
+      0.5,
+      1.0
+    ],
+    "renewal": [
+      false,
+      true
+    ],
+    "linked": [
+      false,
+      true
+    ],
+    "legal_regime": [
+      "zero",
+      "finite",
+      "finite",
+      "finite",
+      "finite",
+      "finite",
+      "finite",
+      "finite",
+      "unlimited",
+      "unlimited"
+    ],
+    "conversion_method": [
+      "physical",
+      "cash",
+      "combination"
+    ],
+    "conversion_behavior": [
+      "eligible",
+      "eligible",
+      "eligible",
+      "maturity_only",
+      "none"
+    ],
+    "issuer_calls": [
+      false,
+      true
+    ],
+    "stock_dividend_election": [
+      false,
+      true
+    ],
+    "slow_settlement": [
+      false,
+      true
+    ],
+    "late_loan": [
+      false,
+      true
+    ],
+    "foreign_available": [
+      false,
+      true
+    ]
+  },
+  "main_seed": 20261022,
+  "challenge_seed": 20261023,
+  "split_seed": 71926,
+  "train": 1500,
+  "holdout": 500,
+  "price_anchor_usd": 86.93,
+  "anchor_source": "Supplied paper v11 Section 2.4 and Appendix A1; not a new market-price observation.",
+  "closure_tail_futures": 125,
+  "closure_tail_selection": "Every sixteenth main future, identical to the cash perturbation subset",
+  "closure_tail_starts": [
+    "2031-06-30",
+    "2033-06-30"
+  ],
+  "closure_tail_ends": [
+    "2032-06-30",
+    "2034-06-30"
+  ],
+  "closure_tail_rule": "Set both issuance channels to zero after the original endpoint; all other path inputs and policy rules unchanged. Evaluate only conditional on survival to closure.",
+  "legal_zero_scope": "Zero cash distribution budget; stock dividend permission remains distinct and enabled.",
+  "interpretation": "Design shares are not event probabilities. No calibrated probability distribution or optimizer.",
+  "discovery": {
+    "PRIM_peel": 0.05,
+    "PRIM_paste": 0.05,
+    "min_mass": 0.05,
+    "max_restricted_dimensions": 4,
+    "max_boxes": 3,
+    "training_density_target": 0.9,
+    "validation_density_screen": 0.8,
+    "validation_coverage_screen": 0.7,
+    "min_validation_cases": 20,
+    "stability_subsamples": 12,
+    "median_Jaccard_screen": 0.6,
+    "CART_max_depth": 3,
+    "CART_min_leaf_fraction": 0.03,
+    "thresholds_status": "Research screening criteria; failure limits claims rather than initiating post-hoc tuning."
+  }
+}

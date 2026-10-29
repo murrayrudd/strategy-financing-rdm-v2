@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "SEC-0000950170-25-021814",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025021814/mstr-20241231.htm",
+    "reportDate": "2024-12-31",
+    "filingDate": "2025-02-18",
+    "local_path": "raw/sec/0000950170-25-021814/mstr-20241231.htm",
+    "packaged_path": "sources/mstr-20241231.htm"
+  },
+  {
+    "source_id": "SEC-0000950170-25-063536",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025063536/mstr-20250331.htm",
+    "reportDate": "2025-03-31",
+    "filingDate": "2025-05-05",
+    "local_path": "raw/sec/0000950170-25-063536/mstr-20250331.htm",
+    "packaged_path": "sources/mstr-20250331.htm"
+  },
+  {
+    "source_id": "SEC-0000950170-25-102209",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000095017025102209/mstr-20250630.htm",
+    "reportDate": "2025-06-30",
+    "filingDate": "2025-08-05",
+    "local_path": "raw/sec/0000950170-25-102209/mstr-20250630.htm",
+    "packaged_path": "sources/mstr-20250630.htm"
+  },
+  {
+    "source_id": "SEC-0001193125-25-262568",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312525262568/mstr-20250930.htm",
+    "reportDate": "2025-09-30",
+    "filingDate": "2025-11-03",
+    "local_path": "raw/sec/0001193125-25-262568/mstr-20250930.htm",
+    "packaged_path": "sources/mstr-20250930.htm"
+  },
+  {
+    "source_id": "SEC-0001050446-26-000020",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000020/mstr-20251231.htm",
+    "reportDate": "2025-12-31",
+    "filingDate": "2026-02-19",
+    "local_path": "raw/sec/0001050446-26-000020/mstr-20251231.htm",
+    "packaged_path": "sources/mstr-20251231.htm"
+  },
+  {
+    "source_id": "SEC-0001050446-26-000031",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000031/mstr-20260331.htm",
+    "reportDate": "2026-03-31",
+    "filingDate": "2026-05-06",
+    "local_path": "raw/sec/0001050446-26-000031/mstr-20260331.htm",
+    "packaged_path": "sources/mstr-20260331.htm"
+  },
+  {
+    "source_id": "SEC-0001050446-26-000044",
+    "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/mstr-20260630.htm",
+    "reportDate": "2026-06-30",
+    "filingDate": "2026-08-03",
+    "local_path": "raw/sec/0001050446-26-000044/mstr-20260630.htm",
+    "packaged_path": "sources/mstr-20260630.htm"
+  }
+]

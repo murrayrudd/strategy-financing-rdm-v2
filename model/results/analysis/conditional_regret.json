@@ -1,0 +1,290 @@
+[
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 14.741588632031139,
+    "p90_regret": 33.61426991394829,
+    "max_regret": 1181.87430046175
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 8.523555301468946,
+    "p90_regret": 25.574510843105358,
+    "max_regret": 153.87562804981923
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 8.027908504020132,
+    "p90_regret": 36.76775798699265,
+    "max_regret": 1623.7552492494106
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 5.465594127386561,
+    "p90_regret": 18.071125695521747,
+    "max_regret": 693.0370816017494
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 15.056092074555878,
+    "p90_regret": 33.46544957999905,
+    "max_regret": 1137.766613875925
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 8.081637847262378,
+    "p90_regret": 26.439130294851577,
+    "max_regret": 105.47009420803175
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 3.316655368179127,
+    "p90_regret": 39.625282904853115,
+    "max_regret": 1972.4428462910391
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "common_survivor_futures": 1885,
+    "median_regret_usd_per_share": 0.5668008475774755,
+    "p90_regret": 22.384493369670572,
+    "max_regret": 1227.2799250629105
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 15.718637754845943,
+    "p90_regret": 35.07761771169486,
+    "max_regret": 896.9997067617003
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 10.41153986977271,
+    "p90_regret": 28.800898033072382,
+    "max_regret": 1230.769620508041
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 8.70312405826781,
+    "p90_regret": 35.281017518351675,
+    "max_regret": 1511.9014393302234
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 6.432885437041545,
+    "p90_regret": 19.473684698048686,
+    "max_regret": 856.4500123015334
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 16.24831786110887,
+    "p90_regret": 35.16995310887904,
+    "max_regret": 1571.2924542064943
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 10.432602579391991,
+    "p90_regret": 30.32698238846475,
+    "max_regret": 750.3830268579723
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 3.5163185509004364,
+    "p90_regret": 38.714547086257625,
+    "max_regret": 1625.6101037959697
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "common_survivor_futures": 1868,
+    "median_regret_usd_per_share": 0.5681935031503293,
+    "p90_regret": 22.300093880112378,
+    "max_regret": 1081.243841519985
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 24.01181756918253,
+    "p90_regret": 66.3792750642952,
+    "max_regret": 966.9574436942949
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 10.363286384581858,
+    "p90_regret": 36.26323924533952,
+    "max_regret": 893.2523631239321
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 13.142092854213512,
+    "p90_regret": 81.46887591235102,
+    "max_regret": 1198.7595247357795
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 7.416405344666272,
+    "p90_regret": 34.458859938844746,
+    "max_regret": 807.6535996635307
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 24.46023961130991,
+    "p90_regret": 66.29167423794975,
+    "max_regret": 856.2084402993205
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 9.88953125219334,
+    "p90_regret": 36.64453140447401,
+    "max_regret": 893.2523631239321
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 6.414393416838082,
+    "p90_regret": 88.4951279213124,
+    "max_regret": 1198.7595247357795
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "common_survivor_futures": 1740,
+    "median_regret_usd_per_share": 1.0060194761137193,
+    "p90_regret": 53.97360854912931,
+    "max_regret": 600.6157055329222
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 26.409664171266378,
+    "p90_regret": 69.21410866396633,
+    "max_regret": 1299.9175375043217
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 12.86850356755624,
+    "p90_regret": 42.204360044782966,
+    "max_regret": 531.685147066351
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 14.611945946928902,
+    "p90_regret": 79.03101689037497,
+    "max_regret": 1332.9661933078537
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 8.785607382576373,
+    "p90_regret": 36.93766442538474,
+    "max_regret": 1414.776932805294
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 27.3697795707114,
+    "p90_regret": 67.4913352522576,
+    "max_regret": 1486.3367281786855
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 12.580198583241014,
+    "p90_regret": 43.996061750305344,
+    "max_regret": 470.47839425340237
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 7.179078587726323,
+    "p90_regret": 91.32406832862134,
+    "max_regret": 1173.871356203312
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "common_survivor_futures": 1710,
+    "median_regret_usd_per_share": 1.08685727599299,
+    "p90_regret": 52.001574144145856,
+    "max_regret": 1786.3593426874845
+  }
+]

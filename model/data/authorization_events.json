@@ -1,0 +1,50 @@
+[
+  {
+    "instrument": "STRK",
+    "effective_date": "2025-03-10",
+    "public_date": "2025-08-05",
+    "authorized": 269800000,
+    "source_id": "S04",
+    "note": "Validation of authorization effective 06:00 Eastern; actual certificate dated August 1"
+  },
+  {
+    "instrument": "STRF",
+    "effective_date": "2025-05-22",
+    "public_date": "2025-08-05",
+    "authorized": 33200000,
+    "source_id": "S05",
+    "note": "Validation of authorization effective 06:00 Eastern; actual certificate dated August 1"
+  },
+  {
+    "instrument": "STRD",
+    "effective_date": "2025-07-07",
+    "public_date": "2025-08-05",
+    "authorized": 61175700,
+    "source_id": "S06",
+    "note": "Validation of authorization effective 06:00 Eastern; actual certificate dated August 1"
+  },
+  {
+    "instrument": "STRC",
+    "effective_date": "2025-07-31",
+    "public_date": "2025-07-31",
+    "authorized": 70435353,
+    "source_id": "S24",
+    "note": "Certificate increase; disclosure date checked against parent filing"
+  },
+  {
+    "instrument": "STRC",
+    "effective_date": "2026-03-23",
+    "public_date": "2026-03-23",
+    "authorized": 282556565,
+    "source_id": "S30",
+    "note": "Certificate increase"
+  },
+  {
+    "instrument": "STRK",
+    "effective_date": "2026-03-23",
+    "public_date": "2026-03-23",
+    "authorized": 40270744,
+    "source_id": "S31",
+    "note": "Certificate decrease"
+  }
+]

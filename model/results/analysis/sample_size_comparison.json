@@ -1,0 +1,802 @@
+[
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "cash_service": {
+      "first_1000": 0.976,
+      "all_2000": 0.9735,
+      "absolute_difference": 0.0024999999999999467
+    },
+    "preferred_continuity": {
+      "first_1000": 0.539,
+      "all_2000": 0.5565,
+      "absolute_difference": 0.01749999999999996
+    },
+    "common_preservation": {
+      "first_1000": 0.416,
+      "all_2000": 0.431,
+      "absolute_difference": 0.015000000000000013
+    },
+    "joint_success": {
+      "first_1000": 0.234,
+      "all_2000": 0.2545,
+      "absolute_difference": 0.02049999999999999
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "cash_service": {
+      "first_1000": 0.951,
+      "all_2000": 0.953,
+      "absolute_difference": 0.0020000000000000018
+    },
+    "preferred_continuity": {
+      "first_1000": 0.521,
+      "all_2000": 0.5395,
+      "absolute_difference": 0.01849999999999996
+    },
+    "common_preservation": {
+      "first_1000": 0.415,
+      "all_2000": 0.4315,
+      "absolute_difference": 0.016500000000000015
+    },
+    "joint_success": {
+      "first_1000": 0.231,
+      "all_2000": 0.2535,
+      "absolute_difference": 0.022499999999999992
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "cash_service": {
+      "first_1000": 0.978,
+      "all_2000": 0.9745,
+      "absolute_difference": 0.0034999999999999476
+    },
+    "preferred_continuity": {
+      "first_1000": 0.64,
+      "all_2000": 0.6475,
+      "absolute_difference": 0.007499999999999951
+    },
+    "common_preservation": {
+      "first_1000": 0.432,
+      "all_2000": 0.448,
+      "absolute_difference": 0.016000000000000014
+    },
+    "joint_success": {
+      "first_1000": 0.302,
+      "all_2000": 0.3155,
+      "absolute_difference": 0.013500000000000012
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "cash_service": {
+      "first_1000": 0.951,
+      "all_2000": 0.952,
+      "absolute_difference": 0.0010000000000000009
+    },
+    "preferred_continuity": {
+      "first_1000": 0.62,
+      "all_2000": 0.629,
+      "absolute_difference": 0.009000000000000008
+    },
+    "common_preservation": {
+      "first_1000": 0.432,
+      "all_2000": 0.448,
+      "absolute_difference": 0.016000000000000014
+    },
+    "joint_success": {
+      "first_1000": 0.298,
+      "all_2000": 0.312,
+      "absolute_difference": 0.014000000000000012
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "cash_service": {
+      "first_1000": 0.976,
+      "all_2000": 0.973,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "preferred_continuity": {
+      "first_1000": 0.528,
+      "all_2000": 0.545,
+      "absolute_difference": 0.017000000000000015
+    },
+    "common_preservation": {
+      "first_1000": 0.418,
+      "all_2000": 0.432,
+      "absolute_difference": 0.014000000000000012
+    },
+    "joint_success": {
+      "first_1000": 0.233,
+      "all_2000": 0.2525,
+      "absolute_difference": 0.01949999999999999
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "cash_service": {
+      "first_1000": 0.951,
+      "all_2000": 0.9525,
+      "absolute_difference": 0.0015000000000000568
+    },
+    "preferred_continuity": {
+      "first_1000": 0.508,
+      "all_2000": 0.528,
+      "absolute_difference": 0.020000000000000018
+    },
+    "common_preservation": {
+      "first_1000": 0.419,
+      "all_2000": 0.434,
+      "absolute_difference": 0.015000000000000013
+    },
+    "joint_success": {
+      "first_1000": 0.23,
+      "all_2000": 0.252,
+      "absolute_difference": 0.021999999999999992
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "cash_service": {
+      "first_1000": 0.979,
+      "all_2000": 0.9755,
+      "absolute_difference": 0.0034999999999999476
+    },
+    "preferred_continuity": {
+      "first_1000": 0.51,
+      "all_2000": 0.5305,
+      "absolute_difference": 0.020499999999999963
+    },
+    "common_preservation": {
+      "first_1000": 0.438,
+      "all_2000": 0.4535,
+      "absolute_difference": 0.015500000000000014
+    },
+    "joint_success": {
+      "first_1000": 0.241,
+      "all_2000": 0.2585,
+      "absolute_difference": 0.017500000000000016
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "cash_service": {
+      "first_1000": 0.956,
+      "all_2000": 0.953,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "preferred_continuity": {
+      "first_1000": 0.48,
+      "all_2000": 0.497,
+      "absolute_difference": 0.017000000000000015
+    },
+    "common_preservation": {
+      "first_1000": 0.437,
+      "all_2000": 0.451,
+      "absolute_difference": 0.014000000000000012
+    },
+    "joint_success": {
+      "first_1000": 0.224,
+      "all_2000": 0.246,
+      "absolute_difference": 0.021999999999999992
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "cash_service": {
+      "first_1000": 0.973,
+      "all_2000": 0.971,
+      "absolute_difference": 0.0020000000000000018
+    },
+    "preferred_continuity": {
+      "first_1000": 0.537,
+      "all_2000": 0.555,
+      "absolute_difference": 0.018000000000000016
+    },
+    "common_preservation": {
+      "first_1000": 0.407,
+      "all_2000": 0.4255,
+      "absolute_difference": 0.018500000000000016
+    },
+    "joint_success": {
+      "first_1000": 0.23,
+      "all_2000": 0.252,
+      "absolute_difference": 0.021999999999999992
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "cash_service": {
+      "first_1000": 0.944,
+      "all_2000": 0.9455,
+      "absolute_difference": 0.0015000000000000568
+    },
+    "preferred_continuity": {
+      "first_1000": 0.518,
+      "all_2000": 0.537,
+      "absolute_difference": 0.019000000000000017
+    },
+    "common_preservation": {
+      "first_1000": 0.402,
+      "all_2000": 0.4235,
+      "absolute_difference": 0.021499999999999964
+    },
+    "joint_success": {
+      "first_1000": 0.226,
+      "all_2000": 0.251,
+      "absolute_difference": 0.024999999999999994
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "cash_service": {
+      "first_1000": 0.976,
+      "all_2000": 0.9725,
+      "absolute_difference": 0.0034999999999999476
+    },
+    "preferred_continuity": {
+      "first_1000": 0.64,
+      "all_2000": 0.6475,
+      "absolute_difference": 0.007499999999999951
+    },
+    "common_preservation": {
+      "first_1000": 0.427,
+      "all_2000": 0.444,
+      "absolute_difference": 0.017000000000000015
+    },
+    "joint_success": {
+      "first_1000": 0.3,
+      "all_2000": 0.3135,
+      "absolute_difference": 0.013500000000000012
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "cash_service": {
+      "first_1000": 0.945,
+      "all_2000": 0.9455,
+      "absolute_difference": 0.000500000000000056
+    },
+    "preferred_continuity": {
+      "first_1000": 0.617,
+      "all_2000": 0.6245,
+      "absolute_difference": 0.007500000000000062
+    },
+    "common_preservation": {
+      "first_1000": 0.423,
+      "all_2000": 0.44,
+      "absolute_difference": 0.017000000000000015
+    },
+    "joint_success": {
+      "first_1000": 0.295,
+      "all_2000": 0.308,
+      "absolute_difference": 0.013000000000000012
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "cash_service": {
+      "first_1000": 0.974,
+      "all_2000": 0.971,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "preferred_continuity": {
+      "first_1000": 0.526,
+      "all_2000": 0.5425,
+      "absolute_difference": 0.01649999999999996
+    },
+    "common_preservation": {
+      "first_1000": 0.411,
+      "all_2000": 0.428,
+      "absolute_difference": 0.017000000000000015
+    },
+    "joint_success": {
+      "first_1000": 0.232,
+      "all_2000": 0.252,
+      "absolute_difference": 0.01999999999999999
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "cash_service": {
+      "first_1000": 0.945,
+      "all_2000": 0.945,
+      "absolute_difference": 0.0
+    },
+    "preferred_continuity": {
+      "first_1000": 0.504,
+      "all_2000": 0.524,
+      "absolute_difference": 0.020000000000000018
+    },
+    "common_preservation": {
+      "first_1000": 0.405,
+      "all_2000": 0.425,
+      "absolute_difference": 0.019999999999999962
+    },
+    "joint_success": {
+      "first_1000": 0.227,
+      "all_2000": 0.2505,
+      "absolute_difference": 0.023499999999999993
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "cash_service": {
+      "first_1000": 0.976,
+      "all_2000": 0.9725,
+      "absolute_difference": 0.0034999999999999476
+    },
+    "preferred_continuity": {
+      "first_1000": 0.506,
+      "all_2000": 0.523,
+      "absolute_difference": 0.017000000000000015
+    },
+    "common_preservation": {
+      "first_1000": 0.433,
+      "all_2000": 0.4515,
+      "absolute_difference": 0.018500000000000016
+    },
+    "joint_success": {
+      "first_1000": 0.227,
+      "all_2000": 0.2445,
+      "absolute_difference": 0.017499999999999988
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "cash_service": {
+      "first_1000": 0.947,
+      "all_2000": 0.9445,
+      "absolute_difference": 0.0024999999999999467
+    },
+    "preferred_continuity": {
+      "first_1000": 0.473,
+      "all_2000": 0.4855,
+      "absolute_difference": 0.012500000000000011
+    },
+    "common_preservation": {
+      "first_1000": 0.431,
+      "all_2000": 0.447,
+      "absolute_difference": 0.016000000000000014
+    },
+    "joint_success": {
+      "first_1000": 0.222,
+      "all_2000": 0.239,
+      "absolute_difference": 0.016999999999999987
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "cash_service": {
+      "first_1000": 0.92,
+      "all_2000": 0.9205,
+      "absolute_difference": 0.0004999999999999449
+    },
+    "preferred_continuity": {
+      "first_1000": 0.468,
+      "all_2000": 0.492,
+      "absolute_difference": 0.023999999999999966
+    },
+    "common_preservation": {
+      "first_1000": 0.464,
+      "all_2000": 0.4625,
+      "absolute_difference": 0.0015000000000000013
+    },
+    "joint_success": {
+      "first_1000": 0.254,
+      "all_2000": 0.268,
+      "absolute_difference": 0.014000000000000012
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "cash_service": {
+      "first_1000": 0.875,
+      "all_2000": 0.883,
+      "absolute_difference": 0.008000000000000007
+    },
+    "preferred_continuity": {
+      "first_1000": 0.433,
+      "all_2000": 0.463,
+      "absolute_difference": 0.030000000000000027
+    },
+    "common_preservation": {
+      "first_1000": 0.462,
+      "all_2000": 0.4645,
+      "absolute_difference": 0.0025000000000000022
+    },
+    "joint_success": {
+      "first_1000": 0.25,
+      "all_2000": 0.2665,
+      "absolute_difference": 0.016500000000000015
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "cash_service": {
+      "first_1000": 0.927,
+      "all_2000": 0.9285,
+      "absolute_difference": 0.0014999999999999458
+    },
+    "preferred_continuity": {
+      "first_1000": 0.588,
+      "all_2000": 0.599,
+      "absolute_difference": 0.01100000000000001
+    },
+    "common_preservation": {
+      "first_1000": 0.483,
+      "all_2000": 0.486,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "joint_success": {
+      "first_1000": 0.328,
+      "all_2000": 0.34,
+      "absolute_difference": 0.01200000000000001
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "cash_service": {
+      "first_1000": 0.886,
+      "all_2000": 0.891,
+      "absolute_difference": 0.0050000000000000044
+    },
+    "preferred_continuity": {
+      "first_1000": 0.554,
+      "all_2000": 0.5655,
+      "absolute_difference": 0.011499999999999955
+    },
+    "common_preservation": {
+      "first_1000": 0.48,
+      "all_2000": 0.483,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "joint_success": {
+      "first_1000": 0.321,
+      "all_2000": 0.334,
+      "absolute_difference": 0.013000000000000012
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "cash_service": {
+      "first_1000": 0.92,
+      "all_2000": 0.922,
+      "absolute_difference": 0.0020000000000000018
+    },
+    "preferred_continuity": {
+      "first_1000": 0.455,
+      "all_2000": 0.477,
+      "absolute_difference": 0.021999999999999964
+    },
+    "common_preservation": {
+      "first_1000": 0.464,
+      "all_2000": 0.4625,
+      "absolute_difference": 0.0015000000000000013
+    },
+    "joint_success": {
+      "first_1000": 0.252,
+      "all_2000": 0.2655,
+      "absolute_difference": 0.013500000000000012
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "cash_service": {
+      "first_1000": 0.875,
+      "all_2000": 0.8835,
+      "absolute_difference": 0.008499999999999952
+    },
+    "preferred_continuity": {
+      "first_1000": 0.422,
+      "all_2000": 0.4485,
+      "absolute_difference": 0.026500000000000024
+    },
+    "common_preservation": {
+      "first_1000": 0.463,
+      "all_2000": 0.465,
+      "absolute_difference": 0.0020000000000000018
+    },
+    "joint_success": {
+      "first_1000": 0.249,
+      "all_2000": 0.2645,
+      "absolute_difference": 0.015500000000000014
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "cash_service": {
+      "first_1000": 0.935,
+      "all_2000": 0.9375,
+      "absolute_difference": 0.0024999999999999467
+    },
+    "preferred_continuity": {
+      "first_1000": 0.458,
+      "all_2000": 0.486,
+      "absolute_difference": 0.02799999999999997
+    },
+    "common_preservation": {
+      "first_1000": 0.487,
+      "all_2000": 0.4905,
+      "absolute_difference": 0.003500000000000003
+    },
+    "joint_success": {
+      "first_1000": 0.256,
+      "all_2000": 0.2715,
+      "absolute_difference": 0.015500000000000014
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "cash_service": {
+      "first_1000": 0.905,
+      "all_2000": 0.9065,
+      "absolute_difference": 0.0014999999999999458
+    },
+    "preferred_continuity": {
+      "first_1000": 0.43,
+      "all_2000": 0.453,
+      "absolute_difference": 0.02300000000000002
+    },
+    "common_preservation": {
+      "first_1000": 0.487,
+      "all_2000": 0.49,
+      "absolute_difference": 0.0030000000000000027
+    },
+    "joint_success": {
+      "first_1000": 0.243,
+      "all_2000": 0.2625,
+      "absolute_difference": 0.019500000000000017
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "cash_service": {
+      "first_1000": 0.905,
+      "all_2000": 0.9085,
+      "absolute_difference": 0.0034999999999999476
+    },
+    "preferred_continuity": {
+      "first_1000": 0.457,
+      "all_2000": 0.484,
+      "absolute_difference": 0.02699999999999997
+    },
+    "common_preservation": {
+      "first_1000": 0.453,
+      "all_2000": 0.455,
+      "absolute_difference": 0.0020000000000000018
+    },
+    "joint_success": {
+      "first_1000": 0.248,
+      "all_2000": 0.2635,
+      "absolute_difference": 0.015500000000000014
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "cash_service": {
+      "first_1000": 0.859,
+      "all_2000": 0.8695,
+      "absolute_difference": 0.010500000000000065
+    },
+    "preferred_continuity": {
+      "first_1000": 0.427,
+      "all_2000": 0.4555,
+      "absolute_difference": 0.028500000000000025
+    },
+    "common_preservation": {
+      "first_1000": 0.452,
+      "all_2000": 0.4585,
+      "absolute_difference": 0.006500000000000006
+    },
+    "joint_success": {
+      "first_1000": 0.246,
+      "all_2000": 0.265,
+      "absolute_difference": 0.019000000000000017
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "cash_service": {
+      "first_1000": 0.92,
+      "all_2000": 0.9215,
+      "absolute_difference": 0.0014999999999999458
+    },
+    "preferred_continuity": {
+      "first_1000": 0.58,
+      "all_2000": 0.5895,
+      "absolute_difference": 0.009500000000000064
+    },
+    "common_preservation": {
+      "first_1000": 0.476,
+      "all_2000": 0.4805,
+      "absolute_difference": 0.004500000000000004
+    },
+    "joint_success": {
+      "first_1000": 0.324,
+      "all_2000": 0.336,
+      "absolute_difference": 0.01200000000000001
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "cash_service": {
+      "first_1000": 0.876,
+      "all_2000": 0.88,
+      "absolute_difference": 0.0040000000000000036
+    },
+    "preferred_continuity": {
+      "first_1000": 0.541,
+      "all_2000": 0.5545,
+      "absolute_difference": 0.013499999999999956
+    },
+    "common_preservation": {
+      "first_1000": 0.474,
+      "all_2000": 0.4775,
+      "absolute_difference": 0.003500000000000003
+    },
+    "joint_success": {
+      "first_1000": 0.318,
+      "all_2000": 0.3315,
+      "absolute_difference": 0.013500000000000012
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "cash_service": {
+      "first_1000": 0.905,
+      "all_2000": 0.9095,
+      "absolute_difference": 0.0044999999999999485
+    },
+    "preferred_continuity": {
+      "first_1000": 0.442,
+      "all_2000": 0.4665,
+      "absolute_difference": 0.024500000000000022
+    },
+    "common_preservation": {
+      "first_1000": 0.456,
+      "all_2000": 0.456,
+      "absolute_difference": 0.0
+    },
+    "joint_success": {
+      "first_1000": 0.25,
+      "all_2000": 0.2625,
+      "absolute_difference": 0.012500000000000011
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "cash_service": {
+      "first_1000": 0.857,
+      "all_2000": 0.868,
+      "absolute_difference": 0.01100000000000001
+    },
+    "preferred_continuity": {
+      "first_1000": 0.414,
+      "all_2000": 0.441,
+      "absolute_difference": 0.027000000000000024
+    },
+    "common_preservation": {
+      "first_1000": 0.454,
+      "all_2000": 0.4595,
+      "absolute_difference": 0.005500000000000005
+    },
+    "joint_success": {
+      "first_1000": 0.247,
+      "all_2000": 0.264,
+      "absolute_difference": 0.017000000000000015
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "cash_service": {
+      "first_1000": 0.923,
+      "all_2000": 0.9275,
+      "absolute_difference": 0.0044999999999999485
+    },
+    "preferred_continuity": {
+      "first_1000": 0.447,
+      "all_2000": 0.471,
+      "absolute_difference": 0.023999999999999966
+    },
+    "common_preservation": {
+      "first_1000": 0.485,
+      "all_2000": 0.4885,
+      "absolute_difference": 0.003500000000000003
+    },
+    "joint_success": {
+      "first_1000": 0.245,
+      "all_2000": 0.2585,
+      "absolute_difference": 0.013500000000000012
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "cash_service": {
+      "first_1000": 0.893,
+      "all_2000": 0.8955,
+      "absolute_difference": 0.0024999999999999467
+    },
+    "preferred_continuity": {
+      "first_1000": 0.421,
+      "all_2000": 0.4395,
+      "absolute_difference": 0.018500000000000016
+    },
+    "common_preservation": {
+      "first_1000": 0.484,
+      "all_2000": 0.4865,
+      "absolute_difference": 0.0025000000000000022
+    },
+    "joint_success": {
+      "first_1000": 0.243,
+      "all_2000": 0.257,
+      "absolute_difference": 0.014000000000000012
+    }
+  }
+]

@@ -1,0 +1,489 @@
+{
+  "status": "Post-hoc mechanism diagnostic; not part of the locked eight-policy ranking or independent validation",
+  "futures": 125,
+  "simulations": 250,
+  "extension_sha256": "705ec220ad0eb4a2fe321928e45a37427a71b95fc37220e26ff0230d0233cf21",
+  "raw_sha256": "818836e9ad22ed022bd24da33970e4ef49ebe386398cb5dbe7db6d0f0002d424",
+  "rows": [
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "all",
+      "n": 125,
+      "cash_service": {
+        "original_successes": 123,
+        "headroom_successes": 123,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 63,
+        "headroom_successes": 80,
+        "rescued": 17,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 62,
+        "headroom_successes": 62,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 34,
+        "headroom_successes": 45,
+        "rescued": 11,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "all",
+      "n": 125,
+      "cash_service": {
+        "original_successes": 123,
+        "headroom_successes": 123,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 59,
+        "headroom_successes": 77,
+        "rescued": 18,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 63,
+        "headroom_successes": 64,
+        "rescued": 1,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 31,
+        "headroom_successes": 44,
+        "rescued": 13,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "all",
+      "n": 125,
+      "cash_service": {
+        "original_successes": 119,
+        "headroom_successes": 119,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 57,
+        "headroom_successes": 76,
+        "rescued": 19,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 68,
+        "headroom_successes": 68,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 36,
+        "headroom_successes": 50,
+        "rescued": 14,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "all",
+      "n": 125,
+      "cash_service": {
+        "original_successes": 119,
+        "headroom_successes": 119,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 54,
+        "headroom_successes": 73,
+        "rescued": 19,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 67,
+        "headroom_successes": 68,
+        "rescued": 1,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 32,
+        "headroom_successes": 47,
+        "rescued": 15,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "zero",
+      "n": 14,
+      "cash_service": {
+        "original_successes": 14,
+        "headroom_successes": 14,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 8,
+        "headroom_successes": 8,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "zero",
+      "n": 14,
+      "cash_service": {
+        "original_successes": 14,
+        "headroom_successes": 14,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 8,
+        "headroom_successes": 8,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "zero",
+      "n": 14,
+      "cash_service": {
+        "original_successes": 14,
+        "headroom_successes": 14,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 7,
+        "headroom_successes": 7,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "zero",
+      "n": 14,
+      "cash_service": {
+        "original_successes": 14,
+        "headroom_successes": 14,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 7,
+        "headroom_successes": 7,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "finite",
+      "n": 93,
+      "cash_service": {
+        "original_successes": 92,
+        "headroom_successes": 92,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 46,
+        "headroom_successes": 63,
+        "rescued": 17,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 45,
+        "headroom_successes": 45,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 25,
+        "headroom_successes": 36,
+        "rescued": 11,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "finite",
+      "n": 93,
+      "cash_service": {
+        "original_successes": 92,
+        "headroom_successes": 92,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 42,
+        "headroom_successes": 60,
+        "rescued": 18,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 46,
+        "headroom_successes": 47,
+        "rescued": 1,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 22,
+        "headroom_successes": 35,
+        "rescued": 13,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "finite",
+      "n": 93,
+      "cash_service": {
+        "original_successes": 89,
+        "headroom_successes": 89,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 41,
+        "headroom_successes": 60,
+        "rescued": 19,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 52,
+        "headroom_successes": 52,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 27,
+        "headroom_successes": 41,
+        "rescued": 14,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "finite",
+      "n": 93,
+      "cash_service": {
+        "original_successes": 89,
+        "headroom_successes": 89,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 38,
+        "headroom_successes": 57,
+        "rescued": 19,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 51,
+        "headroom_successes": 52,
+        "rescued": 1,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 23,
+        "headroom_successes": 38,
+        "rescued": 15,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "unlimited",
+      "n": 18,
+      "cash_service": {
+        "original_successes": 17,
+        "headroom_successes": 17,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 17,
+        "headroom_successes": 17,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "unlimited",
+      "n": 18,
+      "cash_service": {
+        "original_successes": 17,
+        "headroom_successes": 17,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 17,
+        "headroom_successes": 17,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "unlimited",
+      "n": 18,
+      "cash_service": {
+        "original_successes": 16,
+        "headroom_successes": 16,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 16,
+        "headroom_successes": 16,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "unlimited",
+      "n": 18,
+      "cash_service": {
+        "original_successes": 16,
+        "headroom_successes": 16,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 16,
+        "headroom_successes": 16,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 9,
+        "headroom_successes": 9,
+        "rescued": 0,
+        "lost": 0
+      }
+    }
+  ]
+}

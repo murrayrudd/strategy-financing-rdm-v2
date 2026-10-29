@@ -1,0 +1,7 @@
+policy,screen,joint_success,shared_survivors,median_regret,p90_regret
+common_12m,calendar_allowance,48,110,3.6371783921455005,19.709100861870922
+retire_12m,calendar_allowance,36,110,0.0,33.0859140822731
+retire_protected_12m,calendar_allowance,50,110,0.07963301660170963,28.33730983567621
+common_12m,no_exogenous_allowance,67,110,5.468649318877798,23.459584703640193
+retire_12m,no_exogenous_allowance,69,110,0.0,35.72455247187396
+retire_protected_12m,no_exogenous_allowance,69,110,0.0,35.72455247187396

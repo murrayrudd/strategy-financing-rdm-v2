@@ -1,0 +1,29 @@
+{
+  "review_scope": "Internal source and engineering review of the integrated checkpoint; no claim of external peer review.",
+  "numerical_test_cases": [
+    "test_both_structures_preserve_published_opening_quote",
+    "test_cash_intervention_does_not_recalibrate_quote",
+    "test_pending_issuance_delivery_does_not_manufacture_value",
+    "test_pending_strk_delivery_preserves_denominator",
+    "test_taxes_offset_pending_receipts_before_cash_available",
+    "test_no_coupons_after_full_put",
+    "test_partial_put_retains_only_remaining_future_coupons",
+    "test_record_coupon_survives_pending_conversion",
+    "test_holiday_coupon_remains_accrued_until_payment",
+    "test_call_conversion_deadline_precedes_redemption",
+    "test_pending_preferred_consumes_cap",
+    "test_lp_activation_and_trade_window",
+    "test_zero_observation_limit_is_defined",
+    "test_current_close_excluded_from_preference",
+    "test_reserve_forecast_extends_past_reporting_endpoint",
+    "test_reporting_horizon_does_not_change_prefix",
+    "test_reference_bounds",
+    "test_cash_running_total_matches_independent_journal_sum",
+    "test_zero_carry_matches_core_and_positive_carry_uses_settled_assets"
+  ],
+  "core_identity_record": "results/rdm/run_identity.json",
+  "performance_equivalence_record": "audit/performance_equivalence.json",
+  "transport_equivalence_record": "audit/transport_repair.json",
+  "controlled_outcome_changes": "results/reviewed_controlled_comparison.json",
+  "unresolved_and_excluded_items": "results/issue_register_current.json"
+}

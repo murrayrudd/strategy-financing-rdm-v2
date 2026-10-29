@@ -1,0 +1,578 @@
+[
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 5,
+    "continuation_only": 5,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 8,
+    "face_only": 5
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 12,
+    "face_only": 1
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 7,
+    "continuation_only": 6,
+    "face_only": 1
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 15,
+    "continuation_only": 15,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 9,
+    "face_only": 4
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 16,
+    "continuation_only": 16,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "capped_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 9,
+    "continuation_only": 7,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 4,
+    "continuation_only": 4,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 0,
+    "continuation_only": 0,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 8,
+    "continuation_only": 8,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 4,
+    "continuation_only": 4,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 17,
+    "continuation_only": 15,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 11,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 22,
+    "continuation_only": 19,
+    "face_only": 3
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "common_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 16,
+    "continuation_only": 12,
+    "face_only": 4
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 4,
+    "continuation_only": 4,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 7,
+    "continuation_only": 6,
+    "face_only": 1
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 12,
+    "continuation_only": 10,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 5,
+    "continuation_only": 3,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 15,
+    "continuation_only": 15,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 14,
+    "continuation_only": 11,
+    "face_only": 3
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 18,
+    "continuation_only": 18,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "dual_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 9,
+    "continuation_only": 6,
+    "face_only": 3
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 6,
+    "continuation_only": 6,
+    "face_only": 0
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 65,
+    "continuation_only": 40,
+    "face_only": 25
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 26,
+    "continuation_only": 15,
+    "face_only": 11
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 46,
+    "continuation_only": 37,
+    "face_only": 9
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 21,
+    "continuation_only": 19,
+    "face_only": 2
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 45,
+    "continuation_only": 34,
+    "face_only": 11
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 26,
+    "continuation_only": 17,
+    "face_only": 9
+  },
+  {
+    "horizon": "2031-06-30",
+    "policy": "retire_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 30,
+    "continuation_only": 22,
+    "face_only": 8
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 24,
+    "continuation_only": 24,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 24,
+    "continuation_only": 20,
+    "face_only": 4
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 19,
+    "continuation_only": 17,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 11,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 31,
+    "continuation_only": 29,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 25,
+    "continuation_only": 20,
+    "face_only": 5
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 16,
+    "continuation_only": 14,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "capped_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 11,
+    "continuation_only": 7,
+    "face_only": 4
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 16,
+    "continuation_only": 15,
+    "face_only": 1
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 19,
+    "continuation_only": 19,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 13,
+    "continuation_only": 12,
+    "face_only": 1
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 8,
+    "continuation_only": 8,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 26,
+    "continuation_only": 24,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 28,
+    "continuation_only": 25,
+    "face_only": 3
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 19,
+    "continuation_only": 15,
+    "face_only": 4
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "common_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 15,
+    "continuation_only": 10,
+    "face_only": 5
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 25,
+    "continuation_only": 25,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 21,
+    "continuation_only": 21,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 17,
+    "continuation_only": 15,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 8,
+    "continuation_only": 7,
+    "face_only": 1
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 35,
+    "continuation_only": 33,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 21,
+    "continuation_only": 18,
+    "face_only": 3
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 17,
+    "continuation_only": 14,
+    "face_only": 3
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "dual_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 11,
+    "continuation_only": 6,
+    "face_only": 5
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_12m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 20,
+    "continuation_only": 20,
+    "face_only": 0
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_12m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 70,
+    "continuation_only": 50,
+    "face_only": 20
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_12m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 18,
+    "continuation_only": 11,
+    "face_only": 7
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_12m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 44,
+    "continuation_only": 35,
+    "face_only": 9
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_3m",
+    "outcome": "cash_service",
+    "n": 2000,
+    "changed": 26,
+    "continuation_only": 24,
+    "face_only": 2
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_3m",
+    "outcome": "preferred_continuity",
+    "n": 2000,
+    "changed": 49,
+    "continuation_only": 38,
+    "face_only": 11
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_3m",
+    "outcome": "common_preservation",
+    "n": 2000,
+    "changed": 17,
+    "continuation_only": 12,
+    "face_only": 5
+  },
+  {
+    "horizon": "2033-06-30",
+    "policy": "retire_3m",
+    "outcome": "joint_success",
+    "n": 2000,
+    "changed": 33,
+    "continuation_only": 22,
+    "face_only": 11
+  }
+]

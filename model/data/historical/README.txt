@@ -1,0 +1,1 @@
+Coin Metrics community historical Bitcoin prices. Source and hashes: provenance.json. Attribution: Coin Metrics. Source data licensed CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/ . Only January 2014 through December 2025 is retained.

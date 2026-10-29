@@ -1,0 +1,47 @@
+{
+  "review_date": "2026-10-23",
+  "question": "Whether the inherited annual cash distribution allowance is an observed corporate or legal constraint, and how to expose structural uncertainty without estimating unobserved lawful funds.",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000105044626000044/mstr-20260630.htm",
+      "document": "June 30, 2026 Form 10-Q",
+      "locations": [
+        "cover",
+        "preferred stock balance sheet",
+        "preferred dividend risk discussion"
+      ],
+      "finding": "Delaware corporation. Cash availability and legally available funds differ. Surplus, profit and solvency conditions are discussed; no automatic annual allowance identified."
+    },
+    {
+      "url": "https://delcode.delaware.gov/title8/c001/sc05/index.html",
+      "document": "Delaware General Corporation Law",
+      "locations": [
+        "154",
+        "160",
+        "170",
+        "171",
+        "172",
+        "173"
+      ],
+      "finding": "Statutory capital and surplus differ from preferred liquidation claims. Dividend and redemption routes have distinct conditions. Board determinations and the net-profits route are not reconstructed here."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526270366/d144149dex31.htm",
+      "document": "Amended STRC certificate",
+      "locations": [
+        "3(q)",
+        "5",
+        "7"
+      ],
+      "finding": "Cumulative accrual, declaration, legal availability, cash distribution restrictions, ordinary redemption and open-market repurchase are distinct concepts. No calendar-year dollar allowance identified."
+    }
+  ],
+  "decision": "Retain annual allowance as explicitly named institutional stress rule; compare rolling, no-added-allowance, and financial net-asset screens. Do not describe any proxy as actual statutory surplus.",
+  "not_estimated": [
+    "actual board-designated capital",
+    "legal fair-value determinations",
+    "current/prior-year net profits route",
+    "redemption-specific capital reductions",
+    "legal going-concern judgment"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "started_epoch": 1792765229.85099,
+  "reason": "Completed count exceeded visible append file at earlier checks. Stop at batch boundary and preserve each future atomically. Root cause not confirmed.",
+  "original_identity_sha256": "2cb8afb54fc9dec7fb234050fa8a045eee9fa3cd9e0268dde2bc10e588fb011a",
+  "core_code_change": false,
+  "all_preserved_records_exact": true,
+  "recomputed_first_future_exact_after_serialization": true,
+  "numeric_identity_unchanged": true,
+  "preserved_futures_at_transition": 745
+}

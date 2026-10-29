@@ -1,0 +1,14 @@
+Input,Value,Treatment
+Bitcoin,"Approximately 846,000 units",Opening economic holding
+Bitcoin price,"$58,714",Rounded opening price
+Cash,"$1,711,837,000",Reported balance preserved
+Treasury investments,"$736,145,000",Separate liquid asset
+Restricted cash,"$1,847,000",Backing asset; not freely spendable
+Designated reserve,Approximately $2.4 billion,Already contained in recorded assets
+Class A common shares,"351,963,000",Opening share denominator
+Class B common shares,"19,640,000",Opening share denominator
+Interest payable,"$5,619,000",Opening liability
+Preferred distributions payable,"$155,157,000",Opening liability with dated credits
+Other net nonoperating assets,"$75,778,000",Fixed residual input
+Reported Bitcoin acquisition cost,"$63,939,306,000",Basis scenario reference only
+Conditional common quote,$86.93,Matched valuation anchor

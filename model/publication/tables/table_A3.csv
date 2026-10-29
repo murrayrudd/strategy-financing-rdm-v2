@@ -1,0 +1,6 @@
+Class,Shares,Currency,Opening annual rate,Distribution treatment
+STRF[^strf],"12,839,689",USD,10%,Cumulative cash
+STRC[^strc],"104,894,705",USD,11.5%,Cumulative cash; variable rate
+STRE[^stre],"7,750,000",EUR,10%,Cumulative cash
+STRK[^strk],"14,020,744",USD,8%,"Cumulative; cash, shares, or both"
+STRD[^strd],"14,024,221",USD,10%,Noncumulative cash

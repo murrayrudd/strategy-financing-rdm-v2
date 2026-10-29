@@ -1,0 +1,25 @@
+Input,Lower bound,Upper bound
+Underlying Bitcoin annual growth,−30%,45%
+Valuation factor,0.35,2.50
+First shock depth,15%,85%
+First shock start after opening,0.25 years,5.50 years
+Recovery parameter,0.40 years,4.00 years
+Issuance closure duration,0 months,60 months
+Linked closure drawdown threshold,20%,65%
+Financing capacity multiplier,0.05,1.25
+Dated closure start after opening,0.25 years,6.00 years
+STRC annual base rate,10%,18%
+STRC stress spread,0 percentage points,6 percentage points
+STRC stress price discount per share,$0,$20
+Annual operating cash flow,−$300 million,$100 million
+Foreign exchange factor,0.75,1.35
+Valuation stress coefficient,0,1.20
+Tax rate on modeled taxable gains,0%,35%
+Tax basis fraction of reported cost,0.40,1.20
+Finite annual distribution allowance,$0.5 billion,$6 billion
+Future common program budget,$3 billion,$12 billion
+Future STRC program budget,$3 billion,$12 billion
+Other loan annual rate,5%,15%
+Preferred market price premium factor,0,0.30
+Continuation reference volatility,35%,100%
+Continuation reference horizon,1 year,5 years

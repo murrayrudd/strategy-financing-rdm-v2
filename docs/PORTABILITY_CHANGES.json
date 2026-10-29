@@ -1,0 +1,44 @@
+[
+  {
+    "source": "strategy_rdm_figure3_v9/build_figure3.py",
+    "destination": "model/publication/build_policy_comparisons.py",
+    "source_sha256": "a7c4238b9e6b53e0bb836eb5c3004e0b065c3e58dec84c464d46b1be4b503626",
+    "destination_sha256": "afcaf707ad6e45a95993aad9619d17d7b5c7f1db08af3f7a407be8327a668aa4",
+    "reason": "Descriptive entrypoint and docstring; plotting code and data unchanged."
+  },
+  {
+    "source": "strategy_rdm_figure3_v9/build_payment_outcomes.py",
+    "destination": "model/publication/build_payment_outcomes.py",
+    "source_sha256": "f6b8a2fd71fab705fa00368d44bafdaac79e5d739a521146ecb6ea2a172ef7c7",
+    "destination_sha256": "cb6f8aeea1ea2663f771afe65ff1a38f97969271dbc5a41fb99aea6375efe0a9",
+    "reason": "Descriptive entrypoint and docstring; plotting code and data unchanged."
+  },
+  {
+    "source": "strategy_rdm_print_figures_v8/build_figures.py",
+    "destination": "model/publication/build_attainment_heatmap.py",
+    "source_sha256": "116fc31cf3ec9d7acfcc4d6edfce7b43b4e077672afdff4a99538b354980566b",
+    "destination_sha256": "859db21df1222c2afdf04287ace1188fe5861aaef4a9dc09839dd0e2a035b865",
+    "reason": "Retain only the approved landscape Figure B1; omit superseded plots and their verification counters."
+  },
+  {
+    "source": "strategy_rdm_sources_v7/model/strategy_rdm_review_v7/paper_revision_v7/build_results_figures.py",
+    "destination": "model/publication/build_funding_and_regret_figures.py",
+    "source_sha256": "7ea8a6f2e3a8171f1330a0f8aafb57e7067b42995676149774e6fa3bad7c302b",
+    "destination_sha256": "0ad36bbe0f48db1d761a7b820f4f1de925a161013dc1dcafe76195d68aaf42ce",
+    "reason": "Use the co-located accumulation analysis; omit superseded payment plot. Retain funding/regret plotting and domain checks."
+  },
+  {
+    "source": "strategy_rdm_sources_v7/model/strategy_rdm_review_v7/paper_revision_v7/build_figures.py",
+    "destination": "model/publication/build_cash_figure.py",
+    "source_sha256": "860d473cbe5d3b3e76de0eafa81b794d3ed89fc1a28069ff8216d95c9852dc2e",
+    "destination_sha256": "aa76e54d4f7b55a294850bc2ca3a917a23866adc00f269504d8b12c23354dedf",
+    "reason": "Retain cash plot only; policy plot is provided by the approved legend revision."
+  },
+  {
+    "source": "strategy_rdm_sources_v7/model/strategy_rdm_review_v7/paper_revision_v7/claim_ledger.json",
+    "destination": "model/analysis/claim_ledger.json",
+    "source_sha256": "9a85c117b1b20084df498c9eb245c5b30a109353f923907b4602c60b4f506bae",
+    "destination_sha256": "b260be7ee3afee913c9cb61d439df8aaef4c9fdb51e2d41f1840276d12c7fc7e",
+    "reason": "Update accumulation source paths for the self-contained directory layout; selectors and values unchanged."
+  }
+]

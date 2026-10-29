@@ -1,0 +1,9 @@
+{
+  "matched_models": 2,
+  "includes_stability_model": true,
+  "training_cases": 1500,
+  "holdout_cases": 500,
+  "challenge_cases": 512,
+  "comparison": "Exact full record equality: PRIM rules, validation metrics, CART text, and 12-subsample stability",
+  "passed": true
+}

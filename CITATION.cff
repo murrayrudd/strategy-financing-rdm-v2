@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying working paper and identify this software release or commit."
+type: software
+title: "Strategy financing resilience under deep uncertainty: self-contained RDM replication materials"
+authors:
+  - family-names: Rudd
+    given-names: Murray A.
+    orcid: "https://orcid.org/0000-0001-9533-5070"
+version: 2.0.0
+date-released: 2026-10-29
+repository-code: "https://github.com/murrayrudd/strategy-financing-rdm-v2"
+url: "https://github.com/murrayrudd/strategy-financing-rdm-v2/releases/tag/v2.0.0"
+license: MIT
+keywords:
+  - robust decision making
+  - deep uncertainty
+  - Bitcoin
+  - corporate financing
+  - regret
+  - Strategy
+references:
+  - type: unpublished
+    title: "Strategy financing under deep uncertainty"
+    authors:
+      - family-names: Rudd
+        given-names: Murray A.
+    year: 2026
+    doi: "10.2139/ssrn.7632598"
+    url: "https://doi.org/10.2139/ssrn.7632598"
+    notes: "SSRN working-paper record; this repository supports the expanded analysis replacing the earlier version."

@@ -1,0 +1,8 @@
+{
+  "models": 96,
+  "validation_screen_pass": 59,
+  "stability_models": 18,
+  "stability_screen_pass": 17,
+  "joint_validation_stability_pass": 11,
+  "interpretation": "Screening failures limit claims about stable, compact failure regions. They do not invalidate completed simulation comparisons or justify post-hoc threshold changes."
+}

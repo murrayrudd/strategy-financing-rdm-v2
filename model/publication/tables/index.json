@@ -1,0 +1,116 @@
+[
+  {
+    "table": "1",
+    "title": "Table 1. Candidate policy families",
+    "path": "model/publication/tables/table_1.csv",
+    "data_rows": 4
+  },
+  {
+    "table": "2",
+    "title": "Table 2. Main uncertainty groups",
+    "path": "model/publication/tables/table_2.csv",
+    "data_rows": 6
+  },
+  {
+    "table": "3",
+    "title": "Table 3. Resilience and conditional regret at June 2033 under continuation valuation",
+    "path": "model/publication/tables/table_3.csv",
+    "data_rows": 8
+  },
+  {
+    "table": "4",
+    "title": "Table 4. Distribution screens and outcomes in the main subset at June 2033",
+    "path": "model/publication/tables/table_4.csv",
+    "data_rows": 9
+  },
+  {
+    "table": "5",
+    "title": "Table 5. Matched funding in the main subset at June 2033",
+    "path": "model/publication/tables/table_5.csv",
+    "data_rows": 6
+  },
+  {
+    "table": "6",
+    "title": "Table 6. Bitcoin accumulation and conditional regret at June 2033 under continuation valuation",
+    "path": "model/publication/tables/table_6.csv",
+    "data_rows": 8
+  },
+  {
+    "table": "A1",
+    "title": "Table A1. Opening inputs at June 30, 2026",
+    "path": "model/publication/tables/table_A1.csv",
+    "data_rows": 13
+  },
+  {
+    "table": "A2",
+    "title": "Table A2. Opening convertible principal and nominal payment dates",
+    "path": "model/publication/tables/table_A2.csv",
+    "data_rows": 6
+  },
+  {
+    "table": "A3",
+    "title": "Table A3. Opening preferred securities",
+    "path": "model/publication/tables/table_A3.csv",
+    "data_rows": 5
+  },
+  {
+    "table": "A4",
+    "title": "Table A4. Complete continuous input ranges",
+    "path": "model/publication/tables/table_A4.csv",
+    "data_rows": 24
+  },
+  {
+    "table": "A5",
+    "title": "Table A5. Categorical inputs",
+    "path": "model/publication/tables/table_A5.csv",
+    "data_rows": 11
+  },
+  {
+    "table": "B1",
+    "title": "Table B1. Main outcomes at June 2033 under continuation valuation",
+    "path": "model/publication/tables/table_B1.csv",
+    "data_rows": 8
+  },
+  {
+    "table": "B2",
+    "title": "Table B2. Main outcomes at June 2033 under face valuation",
+    "path": "model/publication/tables/table_B2.csv",
+    "data_rows": 8
+  },
+  {
+    "table": "B3",
+    "title": "Table B3. Signed and zero-floored regret at June 2033",
+    "path": "model/publication/tables/table_B3.csv",
+    "data_rows": 16
+  },
+  {
+    "table": "B4",
+    "title": "Table B4. Joint success across distribution screens at June 2033",
+    "path": "model/publication/tables/table_B4.csv",
+    "data_rows": 20
+  },
+  {
+    "table": "B5",
+    "title": "Table B5. Regret across screens for the common main survivor domain",
+    "path": "model/publication/tables/table_B5.csv",
+    "data_rows": 15
+  },
+  {
+    "table": "B6",
+    "title": "Table B6. Matched funding in the challenge subset at June 2033",
+    "path": "model/publication/tables/table_B6.csv",
+    "data_rows": 6
+  },
+  {
+    "table": "B7",
+    "title": "Table B7. Cash-service losses caused by the retirement refinement",
+    "path": "model/publication/tables/table_B7.csv",
+    "data_rows": 4
+  },
+  {
+    "table": "B8",
+    "title": "Table B8. Cash service with positive Bitcoin-per-share growth in the main and challenge experiments",
+    "path": "model/publication/tables/table_B8.csv",
+    "data_rows": 8
+  }
+]

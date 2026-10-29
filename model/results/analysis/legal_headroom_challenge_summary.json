@@ -1,0 +1,1454 @@
+{
+  "status": "Prospective challenge test of a refinement developed after the main analysis; no tuning on challenge results",
+  "futures": 512,
+  "simulations": 1024,
+  "raw_sha256": "e7dfa4a9ccc576aef085a4d6ce1233736a3d08e9ba56b5d3a2652659d3ee1fd2",
+  "extension_sha256": "705ec220ad0eb4a2fe321928e45a37427a71b95fc37220e26ff0230d0233cf21",
+  "declared_screen_pass_both_valuations": false,
+  "rows": [
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "all",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 494,
+        "headroom_successes": 494,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 291,
+        "headroom_successes": 331,
+        "rescued": 40,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 228,
+        "headroom_successes": 227,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 136,
+        "headroom_successes": 157,
+        "rescued": 21,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "all",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 489,
+        "headroom_successes": 489,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 275,
+        "headroom_successes": 323,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 226,
+        "headroom_successes": 225,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 126,
+        "headroom_successes": 153,
+        "rescued": 27,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "all",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 466,
+        "headroom_successes": 464,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 257,
+        "headroom_successes": 298,
+        "rescued": 41,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 234,
+        "headroom_successes": 234,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 142,
+        "headroom_successes": 165,
+        "rescued": 23,
+        "lost": 0
+      },
+      "declared_screen_pass": false
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "all",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 461,
+        "headroom_successes": 459,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 245,
+        "headroom_successes": 293,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 230,
+        "headroom_successes": 230,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 161,
+        "rescued": 30,
+        "lost": 0
+      },
+      "declared_screen_pass": false
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "zero",
+      "n": 51,
+      "cash_service": {
+        "original_successes": 51,
+        "headroom_successes": 51,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 21,
+        "headroom_successes": 21,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "zero",
+      "n": 51,
+      "cash_service": {
+        "original_successes": 51,
+        "headroom_successes": 51,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 21,
+        "headroom_successes": 21,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "zero",
+      "n": 51,
+      "cash_service": {
+        "original_successes": 51,
+        "headroom_successes": 51,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 21,
+        "headroom_successes": 21,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "zero",
+      "n": 51,
+      "cash_service": {
+        "original_successes": 51,
+        "headroom_successes": 51,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 21,
+        "headroom_successes": 21,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 0,
+        "headroom_successes": 0,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "finite",
+      "n": 358,
+      "cash_service": {
+        "original_successes": 346,
+        "headroom_successes": 346,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 194,
+        "headroom_successes": 234,
+        "rescued": 40,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 161,
+        "headroom_successes": 160,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 90,
+        "headroom_successes": 111,
+        "rescued": 21,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "finite",
+      "n": 358,
+      "cash_service": {
+        "original_successes": 343,
+        "headroom_successes": 343,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 180,
+        "headroom_successes": 228,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 160,
+        "headroom_successes": 159,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 81,
+        "headroom_successes": 108,
+        "rescued": 27,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "finite",
+      "n": 358,
+      "cash_service": {
+        "original_successes": 325,
+        "headroom_successes": 323,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 168,
+        "headroom_successes": 209,
+        "rescued": 41,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 165,
+        "headroom_successes": 165,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 94,
+        "headroom_successes": 117,
+        "rescued": 23,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "finite",
+      "n": 358,
+      "cash_service": {
+        "original_successes": 321,
+        "headroom_successes": 319,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 157,
+        "headroom_successes": 205,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 162,
+        "headroom_successes": 162,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 84,
+        "headroom_successes": 114,
+        "rescued": 30,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "legal_regime": "unlimited",
+      "n": 103,
+      "cash_service": {
+        "original_successes": 97,
+        "headroom_successes": 97,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 97,
+        "headroom_successes": 97,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 46,
+        "headroom_successes": 46,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 46,
+        "headroom_successes": 46,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "legal_regime": "unlimited",
+      "n": 103,
+      "cash_service": {
+        "original_successes": 95,
+        "headroom_successes": 95,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 95,
+        "headroom_successes": 95,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 45,
+        "headroom_successes": 45,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 45,
+        "headroom_successes": 45,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "legal_regime": "unlimited",
+      "n": 103,
+      "cash_service": {
+        "original_successes": 90,
+        "headroom_successes": 90,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 89,
+        "headroom_successes": 89,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 48,
+        "headroom_successes": 48,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 48,
+        "headroom_successes": 48,
+        "rescued": 0,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "legal_regime": "unlimited",
+      "n": 103,
+      "cash_service": {
+        "original_successes": 89,
+        "headroom_successes": 89,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 88,
+        "headroom_successes": 88,
+        "rescued": 0,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 47,
+        "headroom_successes": 47,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 47,
+        "headroom_successes": 47,
+        "rescued": 0,
+        "lost": 0
+      }
+    }
+  ],
+  "comparisons_to_locked_policies": [
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "capped_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 494,
+        "headroom_successes": 494,
+        "rescued": 1,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 285,
+        "headroom_successes": 331,
+        "rescued": 49,
+        "lost": 3
+      },
+      "common_preservation": {
+        "original_successes": 215,
+        "headroom_successes": 227,
+        "rescued": 12,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 157,
+        "rescued": 28,
+        "lost": 2
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "capped_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 487,
+        "headroom_successes": 489,
+        "rescued": 2,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 281,
+        "headroom_successes": 323,
+        "rescued": 47,
+        "lost": 5
+      },
+      "common_preservation": {
+        "original_successes": 209,
+        "headroom_successes": 225,
+        "rescued": 17,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 128,
+        "headroom_successes": 153,
+        "rescued": 30,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "capped_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 450,
+        "headroom_successes": 464,
+        "rescued": 15,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 245,
+        "headroom_successes": 298,
+        "rescued": 56,
+        "lost": 3
+      },
+      "common_preservation": {
+        "original_successes": 225,
+        "headroom_successes": 234,
+        "rescued": 9,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 135,
+        "headroom_successes": 165,
+        "rescued": 32,
+        "lost": 2
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "capped_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 444,
+        "headroom_successes": 459,
+        "rescued": 16,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 237,
+        "headroom_successes": 293,
+        "rescued": 61,
+        "lost": 5
+      },
+      "common_preservation": {
+        "original_successes": 218,
+        "headroom_successes": 230,
+        "rescued": 14,
+        "lost": 2
+      },
+      "joint_success": {
+        "original_successes": 129,
+        "headroom_successes": 161,
+        "rescued": 37,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "capped_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 480,
+        "headroom_successes": 494,
+        "rescued": 15,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 277,
+        "headroom_successes": 331,
+        "rescued": 58,
+        "lost": 4
+      },
+      "common_preservation": {
+        "original_successes": 219,
+        "headroom_successes": 227,
+        "rescued": 11,
+        "lost": 3
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 157,
+        "rescued": 30,
+        "lost": 4
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "capped_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 474,
+        "headroom_successes": 489,
+        "rescued": 16,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 272,
+        "headroom_successes": 323,
+        "rescued": 57,
+        "lost": 6
+      },
+      "common_preservation": {
+        "original_successes": 211,
+        "headroom_successes": 225,
+        "rescued": 18,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 128,
+        "headroom_successes": 153,
+        "rescued": 32,
+        "lost": 7
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "capped_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 435,
+        "headroom_successes": 464,
+        "rescued": 31,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 227,
+        "headroom_successes": 298,
+        "rescued": 74,
+        "lost": 3
+      },
+      "common_preservation": {
+        "original_successes": 224,
+        "headroom_successes": 234,
+        "rescued": 12,
+        "lost": 2
+      },
+      "joint_success": {
+        "original_successes": 132,
+        "headroom_successes": 165,
+        "rescued": 36,
+        "lost": 3
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "capped_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 430,
+        "headroom_successes": 459,
+        "rescued": 31,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 221,
+        "headroom_successes": 293,
+        "rescued": 77,
+        "lost": 5
+      },
+      "common_preservation": {
+        "original_successes": 220,
+        "headroom_successes": 230,
+        "rescued": 15,
+        "lost": 5
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 161,
+        "rescued": 38,
+        "lost": 8
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "common_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 494,
+        "headroom_successes": 494,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 335,
+        "headroom_successes": 331,
+        "rescued": 8,
+        "lost": 12
+      },
+      "common_preservation": {
+        "original_successes": 226,
+        "headroom_successes": 227,
+        "rescued": 1,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 160,
+        "headroom_successes": 157,
+        "rescued": 3,
+        "lost": 6
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "common_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 488,
+        "headroom_successes": 489,
+        "rescued": 1,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 329,
+        "headroom_successes": 323,
+        "rescued": 8,
+        "lost": 14
+      },
+      "common_preservation": {
+        "original_successes": 221,
+        "headroom_successes": 225,
+        "rescued": 5,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 157,
+        "headroom_successes": 153,
+        "rescued": 6,
+        "lost": 10
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "common_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 458,
+        "headroom_successes": 464,
+        "rescued": 7,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 296,
+        "headroom_successes": 298,
+        "rescued": 12,
+        "lost": 10
+      },
+      "common_preservation": {
+        "original_successes": 228,
+        "headroom_successes": 234,
+        "rescued": 6,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 163,
+        "headroom_successes": 165,
+        "rescued": 7,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "common_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 452,
+        "headroom_successes": 459,
+        "rescued": 7,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 293,
+        "headroom_successes": 293,
+        "rescued": 13,
+        "lost": 13
+      },
+      "common_preservation": {
+        "original_successes": 223,
+        "headroom_successes": 230,
+        "rescued": 8,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 161,
+        "headroom_successes": 161,
+        "rescued": 9,
+        "lost": 9
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "common_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 483,
+        "headroom_successes": 494,
+        "rescued": 13,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 321,
+        "headroom_successes": 331,
+        "rescued": 23,
+        "lost": 13
+      },
+      "common_preservation": {
+        "original_successes": 227,
+        "headroom_successes": 227,
+        "rescued": 6,
+        "lost": 6
+      },
+      "joint_success": {
+        "original_successes": 158,
+        "headroom_successes": 157,
+        "rescued": 9,
+        "lost": 10
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "common_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 478,
+        "headroom_successes": 489,
+        "rescued": 12,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 317,
+        "headroom_successes": 323,
+        "rescued": 21,
+        "lost": 15
+      },
+      "common_preservation": {
+        "original_successes": 220,
+        "headroom_successes": 225,
+        "rescued": 10,
+        "lost": 5
+      },
+      "joint_success": {
+        "original_successes": 153,
+        "headroom_successes": 153,
+        "rescued": 12,
+        "lost": 12
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "common_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 440,
+        "headroom_successes": 464,
+        "rescued": 25,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 280,
+        "headroom_successes": 298,
+        "rescued": 27,
+        "lost": 9
+      },
+      "common_preservation": {
+        "original_successes": 229,
+        "headroom_successes": 234,
+        "rescued": 9,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 163,
+        "headroom_successes": 165,
+        "rescued": 10,
+        "lost": 8
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "common_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 431,
+        "headroom_successes": 459,
+        "rescued": 29,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 273,
+        "headroom_successes": 293,
+        "rescued": 32,
+        "lost": 12
+      },
+      "common_preservation": {
+        "original_successes": 224,
+        "headroom_successes": 230,
+        "rescued": 10,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 161,
+        "headroom_successes": 161,
+        "rescued": 11,
+        "lost": 11
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "dual_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 494,
+        "headroom_successes": 494,
+        "rescued": 2,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 281,
+        "headroom_successes": 331,
+        "rescued": 52,
+        "lost": 2
+      },
+      "common_preservation": {
+        "original_successes": 217,
+        "headroom_successes": 227,
+        "rescued": 10,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 157,
+        "rescued": 28,
+        "lost": 2
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "dual_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 486,
+        "headroom_successes": 489,
+        "rescued": 3,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 276,
+        "headroom_successes": 323,
+        "rescued": 51,
+        "lost": 4
+      },
+      "common_preservation": {
+        "original_successes": 211,
+        "headroom_successes": 225,
+        "rescued": 15,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 127,
+        "headroom_successes": 153,
+        "rescued": 31,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "dual_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 449,
+        "headroom_successes": 464,
+        "rescued": 17,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 238,
+        "headroom_successes": 298,
+        "rescued": 62,
+        "lost": 2
+      },
+      "common_preservation": {
+        "original_successes": 225,
+        "headroom_successes": 234,
+        "rescued": 9,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 133,
+        "headroom_successes": 165,
+        "rescued": 34,
+        "lost": 2
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "dual_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 444,
+        "headroom_successes": 459,
+        "rescued": 17,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 232,
+        "headroom_successes": 293,
+        "rescued": 65,
+        "lost": 4
+      },
+      "common_preservation": {
+        "original_successes": 219,
+        "headroom_successes": 230,
+        "rescued": 13,
+        "lost": 2
+      },
+      "joint_success": {
+        "original_successes": 129,
+        "headroom_successes": 161,
+        "rescued": 37,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "dual_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 481,
+        "headroom_successes": 494,
+        "rescued": 15,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 273,
+        "headroom_successes": 331,
+        "rescued": 61,
+        "lost": 3
+      },
+      "common_preservation": {
+        "original_successes": 222,
+        "headroom_successes": 227,
+        "rescued": 9,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 133,
+        "headroom_successes": 157,
+        "rescued": 29,
+        "lost": 5
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "dual_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 474,
+        "headroom_successes": 489,
+        "rescued": 16,
+        "lost": 1
+      },
+      "preferred_continuity": {
+        "original_successes": 267,
+        "headroom_successes": 323,
+        "rescued": 61,
+        "lost": 5
+      },
+      "common_preservation": {
+        "original_successes": 212,
+        "headroom_successes": 225,
+        "rescued": 17,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 127,
+        "headroom_successes": 153,
+        "rescued": 33,
+        "lost": 7
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "dual_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 433,
+        "headroom_successes": 464,
+        "rescued": 33,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 221,
+        "headroom_successes": 298,
+        "rescued": 79,
+        "lost": 2
+      },
+      "common_preservation": {
+        "original_successes": 224,
+        "headroom_successes": 234,
+        "rescued": 12,
+        "lost": 2
+      },
+      "joint_success": {
+        "original_successes": 130,
+        "headroom_successes": 165,
+        "rescued": 38,
+        "lost": 3
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "dual_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 428,
+        "headroom_successes": 459,
+        "rescued": 33,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 217,
+        "headroom_successes": 293,
+        "rescued": 80,
+        "lost": 4
+      },
+      "common_preservation": {
+        "original_successes": 219,
+        "headroom_successes": 230,
+        "rescued": 15,
+        "lost": 4
+      },
+      "joint_success": {
+        "original_successes": 129,
+        "headroom_successes": 161,
+        "rescued": 39,
+        "lost": 7
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "retire_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 494,
+        "headroom_successes": 494,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 291,
+        "headroom_successes": 331,
+        "rescued": 40,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 228,
+        "headroom_successes": 227,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 136,
+        "headroom_successes": 157,
+        "rescued": 21,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "retire_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 489,
+        "headroom_successes": 489,
+        "rescued": 0,
+        "lost": 0
+      },
+      "preferred_continuity": {
+        "original_successes": 275,
+        "headroom_successes": 323,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 226,
+        "headroom_successes": 225,
+        "rescued": 0,
+        "lost": 1
+      },
+      "joint_success": {
+        "original_successes": 126,
+        "headroom_successes": 153,
+        "rescued": 27,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "retire_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 466,
+        "headroom_successes": 464,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 257,
+        "headroom_successes": 298,
+        "rescued": 41,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 234,
+        "headroom_successes": 234,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 142,
+        "headroom_successes": 165,
+        "rescued": 23,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "retire_12m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 461,
+        "headroom_successes": 459,
+        "rescued": 0,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 245,
+        "headroom_successes": 293,
+        "rescued": 48,
+        "lost": 0
+      },
+      "common_preservation": {
+        "original_successes": 230,
+        "headroom_successes": 230,
+        "rescued": 0,
+        "lost": 0
+      },
+      "joint_success": {
+        "original_successes": 131,
+        "headroom_successes": 161,
+        "rescued": 30,
+        "lost": 0
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "continuation",
+      "compared_with": "retire_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 482,
+        "headroom_successes": 494,
+        "rescued": 15,
+        "lost": 3
+      },
+      "preferred_continuity": {
+        "original_successes": 264,
+        "headroom_successes": 331,
+        "rescued": 72,
+        "lost": 5
+      },
+      "common_preservation": {
+        "original_successes": 232,
+        "headroom_successes": 227,
+        "rescued": 7,
+        "lost": 12
+      },
+      "joint_success": {
+        "original_successes": 134,
+        "headroom_successes": 157,
+        "rescued": 33,
+        "lost": 10
+      }
+    },
+    {
+      "horizon": "2031-06-30",
+      "structure": "face",
+      "compared_with": "retire_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 477,
+        "headroom_successes": 489,
+        "rescued": 14,
+        "lost": 2
+      },
+      "preferred_continuity": {
+        "original_successes": 255,
+        "headroom_successes": 323,
+        "rescued": 75,
+        "lost": 7
+      },
+      "common_preservation": {
+        "original_successes": 229,
+        "headroom_successes": 225,
+        "rescued": 9,
+        "lost": 13
+      },
+      "joint_success": {
+        "original_successes": 130,
+        "headroom_successes": 153,
+        "rescued": 36,
+        "lost": 13
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "continuation",
+      "compared_with": "retire_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 452,
+        "headroom_successes": 464,
+        "rescued": 15,
+        "lost": 3
+      },
+      "preferred_continuity": {
+        "original_successes": 235,
+        "headroom_successes": 298,
+        "rescued": 69,
+        "lost": 6
+      },
+      "common_preservation": {
+        "original_successes": 240,
+        "headroom_successes": 234,
+        "rescued": 3,
+        "lost": 9
+      },
+      "joint_success": {
+        "original_successes": 141,
+        "headroom_successes": 165,
+        "rescued": 30,
+        "lost": 6
+      }
+    },
+    {
+      "horizon": "2033-06-30",
+      "structure": "face",
+      "compared_with": "retire_3m",
+      "n": 512,
+      "cash_service": {
+        "original_successes": 447,
+        "headroom_successes": 459,
+        "rescued": 15,
+        "lost": 3
+      },
+      "preferred_continuity": {
+        "original_successes": 228,
+        "headroom_successes": 293,
+        "rescued": 73,
+        "lost": 8
+      },
+      "common_preservation": {
+        "original_successes": 235,
+        "headroom_successes": 230,
+        "rescued": 4,
+        "lost": 9
+      },
+      "joint_success": {
+        "original_successes": 138,
+        "headroom_successes": 161,
+        "rescued": 33,
+        "lost": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Screen,Policy,Cash,Preferred,Common,Joint
+Annual allowance,Common,117,78,66,48
+Annual allowance,Retirement,119,57,68,36
+Annual allowance,Protected retirement,119,76,68,50
+Rolling allowance,Common,117,78,65,48
+Rolling allowance,Retirement,119,57,67,36
+Rolling allowance,Protected retirement,119,70,66,42
+No added allowance,Common,116,115,67,67
+No added allowance,Retirement,119,117,69,69
+No added allowance,Protected retirement,119,117,69,69

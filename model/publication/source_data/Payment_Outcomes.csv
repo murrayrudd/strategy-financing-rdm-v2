@@ -1,0 +1,9 @@
+policy,joint_success,cash_only,cash_failure
+common_3m,668,1114,218
+common_12m,680,1177,143
+dual_3m,529,1238,233
+dual_12m,531,1313,156
+capped_3m,533,1233,234
+capped_12m,536,1305,159
+retire_3m,525,1288,187
+retire_12m,543,1332,125

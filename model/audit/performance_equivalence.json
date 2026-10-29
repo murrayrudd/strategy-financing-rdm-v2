@@ -1,0 +1,8 @@
+{
+  "future_groups": 8,
+  "simulation_comparisons": 128,
+  "exact_output_equality": true,
+  "before_seconds": 36.29,
+  "after_seconds": 27.19,
+  "quote_cache_exact_simulations": 128
+}

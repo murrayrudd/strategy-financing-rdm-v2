@@ -1,0 +1,35 @@
+[
+  {
+    "id": "L1",
+    "url": "https://delcode.delaware.gov/title8/c001/sc05/",
+    "locator": "DGCL sections 154, 160, 170",
+    "purpose": "Distribution capacity distinct from accounting cash/equity"
+  },
+  {
+    "id": "L2",
+    "url": "https://www.federalregister.gov/documents/2025/11/24/2025-20721/excise-tax-on-repurchase-of-corporate-stock",
+    "locator": "58.4501-1(b)(34)(iii), 58.4501-2 and 58.4501-4",
+    "purpose": "Preferred exclusions, annual net repurchase base, explicit qualification"
+  },
+  {
+    "id": "L3",
+    "url": "https://www.irs.gov/pub/irs-drop/n-25-49.pdf",
+    "locator": "Section 5 and reliance rules",
+    "purpose": "CAMT fair-value adjustment; no blanket tax-free Bitcoin sale assumption"
+  },
+  {
+    "id": "L4",
+    "url": "https://www.newyorkfed.org/aboutthefed/holiday_schedule",
+    "purpose": "Contractual Fed NY payment calendar"
+  },
+  {
+    "id": "L5",
+    "url": "https://www.nyse.com/markets/hours-calendars",
+    "purpose": "Trading calendar distinct from bank days"
+  },
+  {
+    "id": "L6",
+    "url": "https://www.ecb.europa.eu/ecb/contacts/working-hours/html/index.en.html",
+    "purpose": "TARGET closure subset, not all ECB staff holidays"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "release": "2.0.0",
+  "complete_archive": {
+    "name": "strategy-rdm-v2.0.0-complete.zip",
+    "url": "https://github.com/murrayrudd/strategy-financing-rdm-v2/releases/download/v2.0.0/strategy-rdm-v2.0.0-complete.zip",
+    "bytes": 48238054,
+    "sha256": "6897d2253192ac3dcb11fec5a808bddf95b58f677ad2518c46266cebb5dd7372",
+    "files": 3786
+  }
+}

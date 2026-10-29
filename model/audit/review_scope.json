@@ -1,0 +1,31 @@
+{
+  "status": "Reviewed implementation; full RDM execution follows locked design",
+  "review_type": "Internal adversarial engineering and source review, not external independent peer review",
+  "confirmed_price_anchor": 86.93,
+  "old_integrated_face_quote": 77.16924914165693,
+  "new_mechanisms": [
+    "Matched opening valuation calibration",
+    "Committed issuance assets and claims paired",
+    "Protected coupons and post-retirement forecasts",
+    "Tax reservations netted against all expected cash",
+    "Separate cash and stock distribution permission",
+    "Class-specific preference activation and prior-close prices",
+    "Proposed and pending preferred issuance consumes policy cap",
+    "No discretionary finance after cash-service failure",
+    "Forecast commitments beyond reporting endpoints",
+    "Grouped holdout and independent challenge futures",
+    "Paired cash and issuance-closure challenges"
+  ],
+  "scope_exclusions": [
+    "Direct Bitcoin and STRC market-price impact",
+    "Dynamic optimization",
+    "Private tax lots and actual legal distribution capacity",
+    "Exact holder-level fractional settlement",
+    "Newly issued products not in the frozen opening"
+  ],
+  "unresolved_disclosure_bridges_usd": [
+    42167000,
+    1013000
+  ],
+  "source_identity": "Original 34-source manifest retained unchanged"
+}

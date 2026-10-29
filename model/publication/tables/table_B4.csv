@@ -1,0 +1,21 @@
+Sample and valuation,Screen,Common,Dual,Capped,Retirement,Protected
+Main / continuation,Annual allowance,48,36,36,36,50
+Main / continuation,Rolling allowance,48,34,34,36,42
+Main / continuation,No added allowance,67,64,64,69,69
+Main / continuation,Net asset screen,67,64,64,69,69
+Main / continuation,Net assets with 20% haircut,67,64,64,69,69
+Main / face,Annual allowance,48,36,36,32,47
+Main / face,Rolling allowance,48,34,34,35,42
+Main / face,No added allowance,67,63,63,69,69
+Main / face,Net asset screen,67,63,63,69,69
+Main / face,Net assets with 20% haircut,67,63,63,69,69
+Challenge / continuation,Annual allowance,41,30,30,34,43
+Challenge / continuation,Rolling allowance,40,28,28,34,38
+Challenge / continuation,No added allowance,53,52,52,57,57
+Challenge / continuation,Net asset screen,53,52,52,57,57
+Challenge / continuation,Net assets with 20% haircut,53,52,52,57,57
+Challenge / face,Annual allowance,42,30,30,32,43
+Challenge / face,Rolling allowance,41,28,28,31,37
+Challenge / face,No added allowance,53,51,51,56,56
+Challenge / face,Net asset screen,53,51,51,56,56
+Challenge / face,Net assets with 20% haircut,53,51,51,56,56

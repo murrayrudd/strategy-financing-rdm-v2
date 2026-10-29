@@ -1,0 +1,9 @@
+Policy,Median BPS change (%),Median accumulation regret,90th percentile accumulation regret
+Common 3 months,-38.3,"6,464","20,926"
+Dual 3 months,-36.5,0,"26,918"
+Capped dual 3 months,-37.4,790,"27,280"
+Retirement 3 months,-39.6,"5,375","26,611"
+Common 12 months,-42.1,"14,441","29,304"
+Dual 12 months,-41.9,"11,969","34,860"
+Capped dual 12 months,-42.7,"12,551","35,321"
+Retirement 12 months,-43.2,"14,030","33,427"

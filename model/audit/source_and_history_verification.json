@@ -1,0 +1,9 @@
+{
+  "SEC_hashes": 34,
+  "instrument_checks": 75,
+  "instrument_statuses": {
+    "reconciled": 73,
+    "within_holder_rounding_envelope": 2
+  },
+  "scope": "Existing archived primary evidence reverified; not a new live corporate-document audit."
+}

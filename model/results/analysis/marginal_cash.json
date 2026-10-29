@@ -1,0 +1,898 @@
+[
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.0745822825107663,
+      "p10": -0.11419011745532046,
+      "p90": 4.182816888535803
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2375388872349207,
+      "p10": 0.009420153193502166,
+      "p90": 4.866531685253162
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.1753573942647668,
+      "p10": 0.05056939652425883,
+      "p90": 4.427687321517255
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "n": 125,
+    "both_survive": 117,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2413192937105575,
+      "p10": 0.02176298340831502,
+      "p90": 4.702584927663894
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.0411119914040092,
+      "p10": -0.0866284767457246,
+      "p90": 4.182816888535803
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2334643176357578,
+      "p10": -0.005359922847655515,
+      "p90": 4.796492121235185
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.157904700207838,
+      "p10": 0.08630227963804138,
+      "p90": 4.427976118915265
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 3
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 1
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.6776232595784752,
+      "p10": -0.005867245447504245,
+      "p90": 3.5597296869938106
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.1578452695416819,
+      "p10": -0.36756666133280624,
+      "p90": 4.814397340047885
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2407428657068749,
+      "p10": -0.28316445721779615,
+      "p90": 5.140817553679629
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.4270539669077653,
+      "p10": -0.17401118811528474,
+      "p90": 4.613065053523867
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "n": 125,
+    "both_survive": 117,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.3765081138011295,
+      "p10": -0.22774100625278562,
+      "p90": 5.0451020016144135
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.1623872554607193,
+      "p10": -0.2720814737148912,
+      "p90": 4.814515029651441
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2976924540124815,
+      "p10": -0.14901433542964793,
+      "p90": 5.162687995925723
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "n": 125,
+    "both_survive": 123,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.2482783418829164,
+      "p10": -0.056106659017736246,
+      "p90": 4.9346727474495005
+    }
+  },
+  {
+    "horizon": "2031-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 2
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.8401583275466482,
+      "p10": -0.15359935562296972,
+      "p90": 5.277430052941788
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_12m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.463328472241316,
+      "p10": -0.2443995777802204,
+      "p90": 8.231635680366287
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "capped_3m",
+    "n": 125,
+    "both_survive": 110,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.9120068140590265,
+      "p10": 0.002670028311907829,
+      "p90": 9.658000744268568
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_12m",
+    "n": 125,
+    "both_survive": 117,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.679988674981694,
+      "p10": -0.008444571200782597,
+      "p90": 8.44302576635427
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "common_3m",
+    "n": 125,
+    "both_survive": 111,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.7750833224841138,
+      "p10": -0.0026848678198396355,
+      "p90": 9.087572462332878
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_12m",
+    "n": 125,
+    "both_survive": 118,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.4233465872576936,
+      "p10": -0.10827759603775003,
+      "p90": 7.9174955097397355
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "dual_3m",
+    "n": 125,
+    "both_survive": 111,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.8938058031760974,
+      "p10": 0.0023235904905265985,
+      "p90": 9.652228618211145
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_12m",
+    "n": 125,
+    "both_survive": 119,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.6426578253557134,
+      "p10": 0.00838267216768427,
+      "p90": 8.423453616869248
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "continuation",
+    "policy": "retire_3m",
+    "n": 125,
+    "both_survive": 113,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 2
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.1831555671919007,
+      "p10": -0.07597005108588967,
+      "p90": 6.208963348208894
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_12m",
+    "n": 125,
+    "both_survive": 113,
+    "cash_service": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.0364608305326923,
+      "p10": -0.3286098843546959,
+      "p90": 9.66659782724734
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "capped_3m",
+    "n": 125,
+    "both_survive": 107,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.3780274733444475,
+      "p10": 0.003257073963776419,
+      "p90": 9.490874235477147
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_12m",
+    "n": 125,
+    "both_survive": 117,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.242930474454002,
+      "p10": -0.41524855916915887,
+      "p90": 8.937661471652547
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "common_3m",
+    "n": 125,
+    "both_survive": 109,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.1916985162882625,
+      "p10": -0.22311087986264516,
+      "p90": 9.788387404080522
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_12m",
+    "n": 125,
+    "both_survive": 114,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.035585019107493,
+      "p10": -0.3657033705393718,
+      "p90": 9.229096244791199
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "dual_3m",
+    "n": 125,
+    "both_survive": 107,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.3366868788810824,
+      "p10": -0.019297323904337443,
+      "p90": 9.490874235477147
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_12m",
+    "n": 125,
+    "both_survive": 119,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 2,
+      "lost": 0
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 1,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 1.7828333826898495,
+      "p10": -0.16080075003971708,
+      "p90": 9.252145977007398
+    }
+  },
+  {
+    "horizon": "2033-06-30",
+    "structure": "face",
+    "policy": "retire_3m",
+    "n": 125,
+    "both_survive": 111,
+    "cash_service": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "preferred_continuity": {
+      "rescued": 0,
+      "lost": 2
+    },
+    "common_preservation": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "joint_success": {
+      "rescued": 0,
+      "lost": 0
+    },
+    "finite_backing_gain_per_extra_dollar": {
+      "median": 2.463214535699781,
+      "p10": -0.10327331952470029,
+      "p90": 8.966336990089466
+    }
+  }
+]

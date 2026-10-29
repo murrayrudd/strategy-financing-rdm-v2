@@ -1,0 +1,5 @@
+{
+  "python_hash_seed": "0",
+  "worker_count": 8,
+  "selection": "Prespecified PRIM/CART settings; parallelization does not change per-model fitting."
+}

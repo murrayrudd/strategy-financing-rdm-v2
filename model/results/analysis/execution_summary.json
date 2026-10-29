@@ -1,0 +1,11 @@
+{
+  "main_simulations": 32000,
+  "challenge_simulations": 8192,
+  "cash_simulations": 2000,
+  "main_futures": 2000,
+  "challenge_futures": 512,
+  "cash_futures": 125,
+  "max_cash_reconciliation_residual": 1.6e-16,
+  "censored_endpoint_rows": 6006,
+  "probabilistic_interpretation": false
+}

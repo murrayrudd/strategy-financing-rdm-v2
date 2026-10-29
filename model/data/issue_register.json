@@ -1,0 +1,100 @@
+[
+  {
+    "id": "I01",
+    "issue": "Quarter selection",
+    "status": "Closed for baseline selection",
+    "finding": "Retain June 30, 2026. Do not create a September opening balance sheet from partial 8-K disclosures.",
+    "implication": "No delay to development; refresh after full Q3 filing."
+  },
+  {
+    "id": "I02",
+    "issue": "Bitcoin sale cash bridge",
+    "status": "Open disclosure bridge",
+    "finding": "The $42.167m note/cash-flow difference remains unexplained. Reported opening cash is preserved.",
+    "implication": "Blocks a fully reconciled transaction-history claim; does not block the integrated forward experiment."
+  },
+  {
+    "id": "I03",
+    "issue": "Preferred payable bridge",
+    "status": "Historical bridge open; opening credits integrated",
+    "finding": "The $1.013m H1 payable bridge remains open. First three STRC settlements consume one opening payable; the separate $248.82 residue remains a liability.",
+    "implication": "No duplicate cash settlement; exact class allocation is still an inference."
+  },
+  {
+    "id": "I04",
+    "issue": "Convertible contracts",
+    "status": "Ordinary contract branches integrated and tested",
+    "finding": "Six make-whole tables, 498 cells, split adjustment, eligibility/elections, call notice/partial limits, and physical/cash/combination delivery are implemented. Special reference-property and new antidilution events require verified inputs.",
+    "implication": "Ordinary conversion/call branches can run. Unspecified corporate events are not silently enabled."
+  },
+  {
+    "id": "I05",
+    "issue": "Other secured loans",
+    "status": "Bounded timing and rate sensitivity executed",
+    "finding": "Early full repayment and June 2027 alternatives were run in the paired design and 192 local boundary probes. Broad classifications did not change; two policies moved one local CAGR grid interval, about 0.02 percentage point.",
+    "implication": "Keep the uncertainty range; it is small in these slices, not universally zero."
+  },
+  {
+    "id": "I06",
+    "issue": "Share count",
+    "status": "Closed for opening snapshot",
+    "finding": "Use filed 351.963m Class A plus 19.640m Class B = 371.603m. Retain dashboard definition and precision separately.",
+    "implication": "No blocker; six-quarter reported common-share rollforward reconciles."
+  },
+  {
+    "id": "I07",
+    "issue": "Debt date differences",
+    "status": "Closed for nominal dates",
+    "finding": "Use indenture dates; following-business-day cash settlement is a separate field. Dashboard dates do not overwrite legal dates.",
+    "implication": "No blocker for the verified schedule."
+  },
+  {
+    "id": "I08",
+    "issue": "Preferred document chain",
+    "status": "Dated operating mechanisms integrated",
+    "finding": "Record entitlements, outstanding-share changes, arrears, STRK stock payment/conversion and STRC ordinary redemption run in the daily driver. Holder-level rounding and governance response are outside the aggregate experiment.",
+    "implication": "Ready for controlled financial transitions; no claim of a complete governance/legal-opinion simulator."
+  },
+  {
+    "id": "I09",
+    "issue": "November STRC change",
+    "status": "Conditional proposal retained outside active forward branch",
+    "finding": "The unapproved November daily proposal is not assumed adopted. Experiments retain the currently effective semimonthly certificate.",
+    "implication": "Recompile and rerun if approval and effective amendment become available."
+  },
+  {
+    "id": "I10",
+    "issue": "Repurchase authorizations",
+    "status": "Share ceilings integrated; future program budgets explicit",
+    "finding": "June-effective share ceilings and separate common/STRC scenario budgets are enforced. Ordinary STRC redemption uses certificate authority; October buyback programs are not backdated.",
+    "implication": "Detailed weekly historical authorization-use transcription remains outside this quarter-based replay."
+  },
+  {
+    "id": "I11",
+    "issue": "STRE payment operations",
+    "status": "Contract calendar integrated; operational lags tested",
+    "finding": "STRE uses the Fed NY/London/T2 calendar. A funded holiday-roll deferral does not automatically manufacture junior dividend failure. Slower settlement scenarios are executed.",
+    "implication": "No operational clearing-agent certification; retain lag uncertainty."
+  },
+  {
+    "id": "I12",
+    "issue": "Legal distribution capacity",
+    "status": "Unknown private input tested as a material uncertainty",
+    "finding": "Unlimited-in-experiment, $0.75bn annual, and zero cash-distribution budgets are explicit scenarios. Legal restrictions change preferred continuity and sometimes preserve cash for debt/operations.",
+    "implication": "No single binary viability label is sufficient; actual board legal capacity remains unobserved."
+  },
+  {
+    "id": "I13",
+    "issue": "Media coverage",
+    "status": "Deferred noncritical coverage",
+    "finding": "Archive inventory is not full content review. Use selected management statements to define observable policy rules later.",
+    "implication": "Does not block cash/contract model development."
+  },
+  {
+    "id": "I14",
+    "issue": "Taxes and usable liquidity",
+    "status": "Tax and usable-liquidity mechanisms integrated and tested",
+    "finding": "Average-basis/tax-rate alternatives, tax reservation/remittance, restricted/foreign cash, Treasury haircut and settlement lags are integrated. Excise class inclusion is explicit and common issuance netting separate.",
+    "implication": "Actual tax lots and class tax qualification remain unverified; experimental tax timing is an abstraction."
+  }
+]

@@ -1,0 +1,1 @@
+{"runner_sha256":"37b6636cd3ab79aa991496e32f44fa8b25ac72d1c3c29d7fff61573df86ff83a","worker":"rdm_run.one; numerical worker unchanged","persistence":"One fsynced atomic JSON file per whole future; JSONL compiled atomically at batch boundary"}

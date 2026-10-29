@@ -1,0 +1,86 @@
+{
+  "release": "2.0.0",
+  "verification_date": "2026-10-29",
+  "source_package_sha256_manifest": "840a493679e14244f260fc379873e3d49705803e7cd108284f9ccc4b0fed736e",
+  "engineering_tests": 94,
+  "source_document_hashes": 34,
+  "historical_instrument_checks": 75,
+  "fixed_cash_schedule_checks": 15,
+  "technical_reference_endpoint_matches": 1012,
+  "technical_simulations_in_retained_study": 12178,
+  "total_simulations_in_retained_study": 61292,
+  "new_full_study_simulations_for_release": 0,
+  "core_engine_and_frozen_inputs_changed": false,
+  "recomputed_analysis": {
+    "runs": [
+      {
+        "script": "technical_analyze.py",
+        "exit_code": 0,
+        "seconds": 12.6
+      },
+      {
+        "script": "analysis/analyze_bitcoin_per_share.py",
+        "exit_code": 0,
+        "seconds": 3.58
+      },
+      {
+        "script": "publication/build_methods_figures.py",
+        "exit_code": 0,
+        "seconds": 1.38
+      },
+      {
+        "script": "publication/build_cash_figure.py",
+        "exit_code": 0,
+        "seconds": 1.01
+      },
+      {
+        "script": "publication/build_funding_and_regret_figures.py",
+        "exit_code": 0,
+        "seconds": 2.71
+      },
+      {
+        "script": "publication/build_policy_comparisons.py",
+        "exit_code": 0,
+        "seconds": 1.35
+      },
+      {
+        "script": "publication/build_payment_outcomes.py",
+        "exit_code": 0,
+        "seconds": 1.3
+      },
+      {
+        "script": "publication/build_attainment_heatmap.py",
+        "exit_code": 0,
+        "seconds": 3.43
+      }
+    ],
+    "changed_saved_output_files": []
+  },
+  "approved_figures": [
+    {
+      "figure": "Figure_3_Policy_Comparisons",
+      "approved_pixels_preserved": true
+    },
+    {
+      "figure": "Payment_Outcomes",
+      "approved_pixels_preserved": true
+    },
+    {
+      "figure": "Figure_B1_landscape",
+      "approved_pixels_preserved": true
+    }
+  ],
+  "tables_exported": 19,
+  "isolated_release_verification": {
+    "status": "PASS",
+    "files_checked": 3785,
+    "model_rerun": false,
+    "engineering_tests": 94,
+    "source_documents": 34,
+    "historical_instrument_checks": 75,
+    "cash_schedule_checks": 15,
+    "reproduced_summary_files": 7,
+    "technical_reference_matches": 1012,
+    "supplied_results_unchanged": true
+  }
+}

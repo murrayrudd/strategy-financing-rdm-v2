@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-23",
+  "status": "Research round complete with explicit limitations",
+  "numerical_verification": "results/verification_summary.json",
+  "designed_simulations": 49114,
+  "engineering_tests": 83,
+  "deliverables": [
+    {
+      "path": "deliverables/Strategy_v2_RDM_Results_and_Journal_Plan_2026-10-23.pdf",
+      "sha256": "94689bbb34c8656bb94fd70496d361482846f7e2f0b51177c05930aea8d33ea4",
+      "pages": 11
+    },
+    {
+      "path": "deliverables/Strategy_v2_RDM_Results_and_Journal_Plan_2026-10-23.docx",
+      "sha256": "9203d8a587feaf4ab5f5bc970137f29cd9ca9481644c921c6a69b1269e835d11",
+      "pages": 11
+    },
+    {
+      "path": "deliverables/Strategy_v2_Journal_Working_Draft_2026-10-23.pdf",
+      "sha256": "2a19ef059b32aa06815a314c38356188a798c55d2595f30939d3fd952314f4a7",
+      "pages": 14
+    },
+    {
+      "path": "deliverables/Strategy_v2_Journal_Working_Draft_2026-10-23.docx",
+      "sha256": "0818f44d612cf47334fc7206563c1f698150137be641a74d69189405b2cf8f95",
+      "pages": 14
+    }
+  ],
+  "visual_review": {
+    "report_pages": 11,
+    "manuscript_pages": 14,
+    "every_page_visually_reviewed": true,
+    "reflowed_pages_reviewed_again": true,
+    "unchanged_page_bodies_pixel_compared": true,
+    "pdf_text_bounds_pass": true,
+    "figures": "Four figures checked for label, legend, caption, and axis readability"
+  },
+  "current_issue_register": "results/issue_register_current.json",
+  "remaining_limits": [
+    "No compact cash-service discovery rule passes the declared validation screen.",
+    "The separately frozen legal-headroom refinement fails its cash-service no-loss challenge screen.",
+    "The $42.167m Bitcoin-sale and $1.013m preferred-payable historical bridges remain unresolved.",
+    "Private legal/tax inputs, direct Bitcoin/STRC price impact, and documented scope exclusions remain outside factual identification."
+  ],
+  "publication_status": "Journal working draft for author review; no submission or public repository changes",
+  "background_jobs": []
+}

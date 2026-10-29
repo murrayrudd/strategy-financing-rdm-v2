@@ -1,0 +1,13 @@
+{
+  "source": "https://github.com/coinmetrics/data/blob/master/csv/btc.csv",
+  "retrieved": "2026-10-23",
+  "raw_sha256": "06495ff8e643432e6948b7b4686ce44fc106217287dabdc1b38351d9ddec46c3",
+  "filtered_sha256": "5a174322d9652239ba530a3105d55c1fdffd2f1af5ee9f98e15eab2f35e64023",
+  "rows": 4383,
+  "dates": [
+    "2014-01-01",
+    "2025-12-31"
+  ],
+  "license": "CC BY-NC 4.0",
+  "use": "Historical return shapes; not empirical probabilities or a company historical backtest."
+}

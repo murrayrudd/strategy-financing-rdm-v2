@@ -1,0 +1,9 @@
+Policy,Cash service,Joint success,Median regret,90th percentile regret
+Common 3 months,"1,782",668,$5.13,$33.84
+Dual 3 months,"1,767",529,$0.00,$27.28
+Capped dual 3 months,"1,766",533,$1.88,$28.34
+Retirement 3 months,"1,813",525,$0.00,$53.97
+Common 12 months,"1,857",680,$11.99,$81.47
+Dual 12 months,"1,844",531,$20.27,$64.87
+Capped dual 12 months,"1,841",536,$20.34,$65.68
+Retirement 12 months,"1,875",543,$6.04,$88.50
